@@ -7,4 +7,4 @@ The **Smart City Dashboard** website aims to show how the dashboard of a smart c
 # Sources
 The primary inspiration for this project is taken from the EDAG group in Germany that provides a smart city dashboard reference of what to expect and how a dashboard for a smart city is supposed to look like.
 
-[Link to EDAG smart city dashboard reference](https://smartcity.edag.com/en/referenzen/smart-city-dashboard/){:target="_blank"}
+<a href="https://smartcity.edag.com/en/referenzen/smart-city-dashboard" target="_blank">Link to EDAG smart city dashboard reference</a>
