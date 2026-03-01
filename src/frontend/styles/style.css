@@ -1,0 +1,21 @@
+:root {
+    --bg: green;
+    --sidebar-bg: red;
+    --sidebar-width: 260px;
+    --topbar-height: 56px;
+    --accent1: blue;
+    --accent2: lightblue;
+    --text-color: white;
+    --text-dim-color: gray;
+    --border-color: darkgreen;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: var(--bg);
+    color: var(--text-color);
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden;
+}
