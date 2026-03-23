@@ -62,3 +62,8 @@ The side panel contains the main content menu of the page with the following:
 The primary inspiration for this project is taken from the EDAG group in Germany that provides a smart city dashboard reference of what to expect and how a dashboard for a smart city is supposed to look like.
 
 <a href="https://smartcity.edag.com/en/referenzen/smart-city-dashboard" target="_blank">Link to EDAG smart city dashboard reference</a>
+
+<img src="screenshots/reference_1.png">
+
+### Image Sources
+Most of the images for the icons have been taken from <a href="flaticon.com">Flaticon.com</a>
