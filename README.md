@@ -63,7 +63,7 @@ The primary inspiration for this project is taken from the EDAG group in Germany
 
 <a href="https://smartcity.edag.com/en/referenzen/smart-city-dashboard" target="_blank">Link to EDAG smart city dashboard reference</a>
 
-<img src="src/assets/screenshots/reference_1.png">
+<img src="assets/screenshots/reference_1.png">
 
 ### Image Sources
 Most of the images for the icons have been taken from <a href="flaticon.com">Flaticon.com</a>
