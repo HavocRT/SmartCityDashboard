@@ -1,0 +1,167 @@
+[
+  {
+    "id": "NP001",
+    "district": "Shinjuku",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "noise_level_db": 72,
+    "peak_time": "18:00-22:00",
+    "source": "traffic",
+    "category": "high",
+    "status": "active"
+  },
+  {
+    "id": "NP002",
+    "district": "Shibuya",
+    "lat": 35.6580,
+    "lng": 139.7016,
+    "noise_level_db": 78,
+    "peak_time": "19:00-23:00",
+    "source": "commercial",
+    "category": "high",
+    "status": "active"
+  },
+  {
+    "id": "NP003",
+    "district": "Ginza",
+    "lat": 35.6717,
+    "lng": 139.7650,
+    "noise_level_db": 68,
+    "peak_time": "17:00-21:00",
+    "source": "commercial",
+    "category": "moderate",
+    "status": "active"
+  },
+  {
+    "id": "NP004",
+    "district": "Akihabara",
+    "lat": 35.7023,
+    "lng": 139.7745,
+    "noise_level_db": 70,
+    "peak_time": "16:00-20:00",
+    "source": "mixed",
+    "category": "high",
+    "status": "active"
+  },
+  {
+    "id": "NP005",
+    "district": "Asakusa",
+    "lat": 35.7115,
+    "lng": 139.7960,
+    "noise_level_db": 60,
+    "peak_time": "10:00-14:00",
+    "source": "commercial",
+    "category": "moderate",
+    "status": "active"
+  },
+  {
+    "id": "NP006",
+    "district": "Ikebukuro",
+    "lat": 35.7295,
+    "lng": 139.7109,
+    "noise_level_db": 75,
+    "peak_time": "18:00-22:00",
+    "source": "traffic",
+    "category": "high",
+    "status": "active"
+  },
+  {
+    "id": "NP007",
+    "district": "Roppongi",
+    "lat": 35.6605,
+    "lng": 139.7292,
+    "noise_level_db": 80,
+    "peak_time": "20:00-02:00",
+    "source": "commercial",
+    "category": "high",
+    "status": "active"
+  },
+  {
+    "id": "NP008",
+    "district": "Harajuku",
+    "lat": 35.6653,
+    "lng": 139.7023,
+    "noise_level_db": 69,
+    "peak_time": "15:00-19:00",
+    "source": "mixed",
+    "category": "moderate",
+    "status": "active"
+  },
+  {
+    "id": "NP009",
+    "district": "Ueno",
+    "lat": 35.7148,
+    "lng": 139.7740,
+    "noise_level_db": 65,
+    "peak_time": "12:00-16:00",
+    "source": "traffic",
+    "category": "moderate",
+    "status": "active"
+  },
+  {
+    "id": "NP010",
+    "district": "Odaiba",
+    "lat": 35.6267,
+    "lng": 139.7750,
+    "noise_level_db": 58,
+    "peak_time": "11:00-15:00",
+    "source": "mixed",
+    "category": "low",
+    "status": "active"
+  },
+  {
+    "id": "NP011",
+    "district": "Shinagawa",
+    "lat": 35.6284,
+    "lng": 139.7387,
+    "noise_level_db": 73,
+    "peak_time": "17:00-21:00",
+    "source": "traffic",
+    "category": "high",
+    "status": "active"
+  },
+  {
+    "id": "NP012",
+    "district": "Ebisu",
+    "lat": 35.6468,
+    "lng": 139.7134,
+    "noise_level_db": 66,
+    "peak_time": "18:00-22:00",
+    "source": "commercial",
+    "category": "moderate",
+    "status": "active"
+  },
+  {
+    "id": "NP013",
+    "district": "Nakameguro",
+    "lat": 35.6442,
+    "lng": 139.6990,
+    "noise_level_db": 62,
+    "peak_time": "14:00-18:00",
+    "source": "mixed",
+    "category": "moderate",
+    "status": "active"
+  },
+  {
+    "id": "NP014",
+    "district": "Koenji",
+    "lat": 35.7056,
+    "lng": 139.6492,
+    "noise_level_db": 55,
+    "peak_time": "10:00-14:00",
+    "source": "residential",
+    "category": "low",
+    "status": "active"
+  },
+  {
+    "id": "NP015",
+    "district": "Toyosu",
+    "lat": 35.6450,
+    "lng": 139.7850,
+    "noise_level_db": 64,
+    "peak_time": "13:00-17:00",
+    "source": "construction",
+    "category": "moderate",
+    "status": "active"
+  }
+]
