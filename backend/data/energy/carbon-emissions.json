@@ -1,0 +1,167 @@
+[
+  {
+    "id": "CE001",
+    "district": "Shinjuku",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "co2_level_tons_per_day": 1200,
+    "major_sources": ["transport", "commercial"],
+    "air_quality_impact": "high",
+    "trend": "increasing",
+    "status": "critical"
+  },
+  {
+    "id": "CE002",
+    "district": "Shibuya",
+    "lat": 35.6580,
+    "lng": 139.7016,
+    "co2_level_tons_per_day": 1100,
+    "major_sources": ["transport", "commercial"],
+    "air_quality_impact": "high",
+    "trend": "stable",
+    "status": "warning"
+  },
+  {
+    "id": "CE003",
+    "district": "Ginza",
+    "lat": 35.6717,
+    "lng": 139.7650,
+    "co2_level_tons_per_day": 950,
+    "major_sources": ["commercial"],
+    "air_quality_impact": "moderate",
+    "trend": "stable",
+    "status": "warning"
+  },
+  {
+    "id": "CE004",
+    "district": "Akihabara",
+    "lat": 35.7023,
+    "lng": 139.7745,
+    "co2_level_tons_per_day": 800,
+    "major_sources": ["commercial", "transport"],
+    "air_quality_impact": "moderate",
+    "trend": "decreasing",
+    "status": "normal"
+  },
+  {
+    "id": "CE005",
+    "district": "Asakusa",
+    "lat": 35.7115,
+    "lng": 139.7960,
+    "co2_level_tons_per_day": 600,
+    "major_sources": ["transport", "residential"],
+    "air_quality_impact": "low",
+    "trend": "stable",
+    "status": "normal"
+  },
+  {
+    "id": "CE006",
+    "district": "Ikebukuro",
+    "lat": 35.7295,
+    "lng": 139.7109,
+    "co2_level_tons_per_day": 1000,
+    "major_sources": ["transport", "commercial"],
+    "air_quality_impact": "high",
+    "trend": "increasing",
+    "status": "critical"
+  },
+  {
+    "id": "CE007",
+    "district": "Roppongi",
+    "lat": 35.6605,
+    "lng": 139.7292,
+    "co2_level_tons_per_day": 850,
+    "major_sources": ["commercial"],
+    "air_quality_impact": "moderate",
+    "trend": "stable",
+    "status": "warning"
+  },
+  {
+    "id": "CE008",
+    "district": "Harajuku",
+    "lat": 35.6653,
+    "lng": 139.7023,
+    "co2_level_tons_per_day": 700,
+    "major_sources": ["transport"],
+    "air_quality_impact": "moderate",
+    "trend": "decreasing",
+    "status": "normal"
+  },
+  {
+    "id": "CE009",
+    "district": "Ueno",
+    "lat": 35.7148,
+    "lng": 139.7740,
+    "co2_level_tons_per_day": 750,
+    "major_sources": ["transport", "residential"],
+    "air_quality_impact": "moderate",
+    "trend": "stable",
+    "status": "normal"
+  },
+  {
+    "id": "CE010",
+    "district": "Odaiba",
+    "lat": 35.6267,
+    "lng": 139.7750,
+    "co2_level_tons_per_day": 500,
+    "major_sources": ["transport"],
+    "air_quality_impact": "low",
+    "trend": "decreasing",
+    "status": "normal"
+  },
+  {
+    "id": "CE011",
+    "district": "Shinagawa",
+    "lat": 35.6284,
+    "lng": 139.7387,
+    "co2_level_tons_per_day": 900,
+    "major_sources": ["industrial", "transport"],
+    "air_quality_impact": "high",
+    "trend": "increasing",
+    "status": "critical"
+  },
+  {
+    "id": "CE012",
+    "district": "Ebisu",
+    "lat": 35.6468,
+    "lng": 139.7134,
+    "co2_level_tons_per_day": 650,
+    "major_sources": ["residential", "commercial"],
+    "air_quality_impact": "moderate",
+    "trend": "stable",
+    "status": "normal"
+  },
+  {
+    "id": "CE013",
+    "district": "Nakameguro",
+    "lat": 35.6442,
+    "lng": 139.6990,
+    "co2_level_tons_per_day": 550,
+    "major_sources": ["residential"],
+    "air_quality_impact": "low",
+    "trend": "decreasing",
+    "status": "normal"
+  },
+  {
+    "id": "CE014",
+    "district": "Koenji",
+    "lat": 35.7056,
+    "lng": 139.6492,
+    "co2_level_tons_per_day": 500,
+    "major_sources": ["residential"],
+    "air_quality_impact": "low",
+    "trend": "stable",
+    "status": "normal"
+  },
+  {
+    "id": "CE015",
+    "district": "Shimokitazawa",
+    "lat": 35.6614,
+    "lng": 139.6680,
+    "co2_level_tons_per_day": 480,
+    "major_sources": ["residential", "commercial"],
+    "air_quality_impact": "low",
+    "trend": "decreasing",
+    "status": "normal"
+  }
+]

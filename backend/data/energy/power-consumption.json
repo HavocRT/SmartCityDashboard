@@ -1,0 +1,182 @@
+[
+  {
+    "id": "PC001",
+    "district": "Shinjuku",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "consumption_mw": 320,
+    "peak_hours": ["08:00-11:00", "18:00-22:00"],
+    "status": "high"
+  },
+  {
+    "id": "PC002",
+    "district": "Shibuya",
+    "lat": 35.6580,
+    "lng": 139.7016,
+    "consumption_mw": 290,
+    "peak_hours": ["09:00-12:00", "17:00-21:00"],
+    "status": "high"
+  },
+  {
+    "id": "PC003",
+    "district": "Ginza",
+    "lat": 35.6717,
+    "lng": 139.7650,
+    "consumption_mw": 250,
+    "peak_hours": ["10:00-13:00", "18:00-22:00"],
+    "status": "moderate"
+  },
+  {
+    "id": "PC004",
+    "district": "Akihabara",
+    "lat": 35.7023,
+    "lng": 139.7745,
+    "consumption_mw": 210,
+    "peak_hours": ["11:00-14:00", "17:00-20:00"],
+    "status": "moderate"
+  },
+  {
+    "id": "PC005",
+    "district": "Asakusa",
+    "lat": 35.7115,
+    "lng": 139.7960,
+    "consumption_mw": 160,
+    "peak_hours": ["09:00-12:00", "16:00-19:00"],
+    "status": "low"
+  },
+  {
+    "id": "PC006",
+    "district": "Ikebukuro",
+    "lat": 35.7295,
+    "lng": 139.7109,
+    "consumption_mw": 270,
+    "peak_hours": ["08:00-11:00", "18:00-22:00"],
+    "status": "high"
+  },
+  {
+    "id": "PC007",
+    "district": "Roppongi",
+    "lat": 35.6605,
+    "lng": 139.7292,
+    "consumption_mw": 230,
+    "peak_hours": ["12:00-15:00", "19:00-23:00"],
+    "status": "moderate"
+  },
+  {
+    "id": "PC008",
+    "district": "Harajuku",
+    "lat": 35.6653,
+    "lng": 139.7023,
+    "consumption_mw": 180,
+    "peak_hours": ["10:00-13:00", "17:00-20:00"],
+    "status": "low"
+  },
+  {
+    "id": "PC009",
+    "district": "Ueno",
+    "lat": 35.7148,
+    "lng": 139.7740,
+    "consumption_mw": 200,
+    "peak_hours": ["09:00-12:00", "18:00-21:00"],
+    "status": "moderate"
+  },
+  {
+    "id": "PC010",
+    "district": "Odaiba",
+    "lat": 35.6267,
+    "lng": 139.7750,
+    "consumption_mw": 150,
+    "peak_hours": ["11:00-14:00", "18:00-21:00"],
+    "status": "low"
+  },
+  {
+    "id": "PC011",
+    "district": "Shinagawa",
+    "lat": 35.6284,
+    "lng": 139.7387,
+    "consumption_mw": 260,
+    "peak_hours": ["08:00-11:00", "17:00-21:00"],
+    "status": "high"
+  },
+  {
+    "id": "PC012",
+    "district": "Ebisu",
+    "lat": 35.6468,
+    "lng": 139.7134,
+    "consumption_mw": 190,
+    "peak_hours": ["10:00-13:00", "18:00-21:00"],
+    "status": "moderate"
+  },
+  {
+    "id": "PC013",
+    "district": "Nakameguro",
+    "lat": 35.6442,
+    "lng": 139.6990,
+    "consumption_mw": 140,
+    "peak_hours": ["09:00-12:00", "17:00-20:00"],
+    "status": "low"
+  },
+  {
+    "id": "PC014",
+    "district": "Koenji",
+    "lat": 35.7056,
+    "lng": 139.6492,
+    "consumption_mw": 130,
+    "peak_hours": ["08:00-10:00", "18:00-20:00"],
+    "status": "low"
+  },
+  {
+    "id": "PC015",
+    "district": "Shimokitazawa",
+    "lat": 35.6614,
+    "lng": 139.6680,
+    "consumption_mw": 120,
+    "peak_hours": ["10:00-12:00", "17:00-19:00"],
+    "status": "low"
+  },
+  {
+    "id": "PC016",
+    "district": "Marunouchi",
+    "lat": 35.6812,
+    "lng": 139.7671,
+    "consumption_mw": 340,
+    "peak_hours": ["08:00-12:00", "18:00-22:00"],
+    "status": "high"
+  },
+  {
+    "id": "PC017",
+    "district": "Ryogoku",
+    "lat": 35.6965,
+    "lng": 139.7934,
+    "consumption_mw": 150,
+    "peak_hours": ["09:00-11:00", "17:00-19:00"],
+    "status": "low"
+  },
+  {
+    "id": "PC018",
+    "district": "Kiyosumi",
+    "lat": 35.6849,
+    "lng": 139.7980,
+    "consumption_mw": 110,
+    "peak_hours": ["08:00-10:00", "18:00-20:00"],
+    "status": "low"
+  },
+  {
+    "id": "PC019",
+    "district": "Toyosu",
+    "lat": 35.6450,
+    "lng": 139.7850,
+    "consption_mw": 220,
+    "peak_hours": ["09:00-12:00", "18:00-21:00"],
+    "status": "moderate"
+  },
+  {
+    "id": "PC020",
+    "district": "Nerima",
+    "lat": 35.7356,
+    "lng": 139.6517,
+    "consumption_mw": 140,
+    "peak_hours": ["08:00-10:00", "17:00-19:00"],
+    "status": "low"
+  }
+]

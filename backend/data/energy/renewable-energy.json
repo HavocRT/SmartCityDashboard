@@ -1,0 +1,122 @@
+[
+  {
+    "id": "RE001",
+    "name": "Odaiba Solar Array",
+    "district": "Odaiba",
+    "lat": 35.6267,
+    "lng": 139.7750,
+    "type": "solar",
+    "capacity_mw": 50,
+    "current_output_mw": 32,
+    "efficiency_percent": 64,
+    "status": "active"
+  },
+  {
+    "id": "RE002",
+    "name": "Tokyo Bay Wind Farm",
+    "district": "Tokyo Bay",
+    "lat": 35.6000,
+    "lng": 139.8000,
+    "type": "wind",
+    "capacity_mw": 120,
+    "current_output_mw": 85,
+    "efficiency_percent": 71,
+    "status": "active"
+  },
+  {
+    "id": "RE003",
+    "name": "Sumida River Micro Hydro",
+    "district": "Sumida",
+    "lat": 35.7100,
+    "lng": 139.8000,
+    "type": "hydro",
+    "capacity_mw": 20,
+    "current_output_mw": 12,
+    "efficiency_percent": 60,
+    "status": "low_output"
+  },
+  {
+    "id": "RE004",
+    "name": "Shinjuku Rooftop Solar",
+    "district": "Shinjuku",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "type": "solar",
+    "capacity_mw": 30,
+    "current_output_mw": 20,
+    "efficiency_percent": 66,
+    "status": "active"
+  },
+  {
+    "id": "RE005",
+    "name": "Ikebukuro Biomass Plant",
+    "district": "Ikebukuro",
+    "lat": 35.7295,
+    "lng": 139.7109,
+    "type": "biomass",
+    "capacity_mw": 40,
+    "current_output_mw": 28,
+    "efficiency_percent": 70,
+    "status": "active"
+  },
+  {
+    "id": "RE006",
+    "name": "Roppongi Solar Grid",
+    "district": "Roppongi",
+    "lat": 35.6605,
+    "lng": 139.7292,
+    "type": "solar",
+    "capacity_mw": 25,
+    "current_output_mw": 10,
+    "efficiency_percent": 40,
+    "status": "low_output"
+  },
+  {
+    "id": "RE007",
+    "name": "Toyosu Wind Turbines",
+    "district": "Toyosu",
+    "lat": 35.6450,
+    "lng": 139.7850,
+    "type": "wind",
+    "capacity_mw": 80,
+    "current_output_mw": 60,
+    "efficiency_percent": 75,
+    "status": "active"
+  },
+  {
+    "id": "RE008",
+    "name": "Asakusa Solar Hub",
+    "district": "Asakusa",
+    "lat": 35.7115,
+    "lng": 139.7960,
+    "type": "solar",
+    "capacity_mw": 15,
+    "current_output_mw": 9,
+    "efficiency_percent": 60,
+    "status": "active"
+  },
+  {
+    "id": "RE009",
+    "name": "Shinagawa Biomass Facility",
+    "district": "Shinagawa",
+    "lat": 35.6284,
+    "lng": 139.7387,
+    "type": "biomass",
+    "capacity_mw": 55,
+    "current_output_mw": 0,
+    "efficiency_percent": 0,
+    "status": "maintenance"
+  },
+  {
+    "id": "RE010",
+    "name": "Harajuku Micro Solar Grid",
+    "district": "Harajuku",
+    "lat": 35.6653,
+    "lng": 139.7023,
+    "type": "solar",
+    "capacity_mw": 18,
+    "current_output_mw": 12,
+    "efficiency_percent": 67,
+    "status": "active"
+  }
+]
