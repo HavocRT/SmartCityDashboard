@@ -1,0 +1,167 @@
+[
+  {
+    "id": "BK001",
+    "name": "Shinjuku Bike Hub",
+    "district": "Shinjuku",
+    "lat": 35.6895,
+    "lng": 139.7000,
+    "total_docks": 25,
+    "available_bikes": 10,
+    "available_docks": 15,
+    "status": "active"
+  },
+  {
+    "id": "BK002",
+    "name": "Shibuya Cycle Point",
+    "district": "Shibuya",
+    "lat": 35.6595,
+    "lng": 139.7005,
+    "total_docks": 20,
+    "available_bikes": 2,
+    "available_docks": 18,
+    "status": "low_bikes"
+  },
+  {
+    "id": "BK003",
+    "name": "Ginza Central Bikes",
+    "district": "Ginza",
+    "lat": 35.6717,
+    "lng": 139.7650,
+    "total_docks": 18,
+    "available_bikes": 0,
+    "available_docks": 18,
+    "status": "low_bikes"
+  },
+  {
+    "id": "BK004",
+    "name": "Akihabara Cycle Dock",
+    "district": "Akihabara",
+    "lat": 35.7023,
+    "lng": 139.7745,
+    "total_docks": 22,
+    "available_bikes": 12,
+    "available_docks": 10,
+    "status": "active"
+  },
+  {
+    "id": "BK005",
+    "name": "Asakusa Riverside Bikes",
+    "district": "Asakusa",
+    "lat": 35.7115,
+    "lng": 139.7960,
+    "total_docks": 15,
+    "available_bikes": 15,
+    "available_docks": 0,
+    "status": "full"
+  },
+  {
+    "id": "BK006",
+    "name": "Ikebukuro Station Cycles",
+    "district": "Ikebukuro",
+    "lat": 35.7295,
+    "lng": 139.7109,
+    "total_docks": 24,
+    "available_bikes": 14,
+    "available_docks": 10,
+    "status": "active"
+  },
+  {
+    "id": "BK007",
+    "name": "Roppongi Hills Bikes",
+    "district": "Roppongi",
+    "lat": 35.6605,
+    "lng": 139.7292,
+    "total_docks": 20,
+    "available_bikes": 1,
+    "available_docks": 19,
+    "status": "low_bikes"
+  },
+  {
+    "id": "BK008",
+    "name": "Harajuku Street Cycles",
+    "district": "Harajuku",
+    "lat": 35.6653,
+    "lng": 139.7023,
+    "total_docks": 18,
+    "available_bikes": 9,
+    "available_docks": 9,
+    "status": "active"
+  },
+  {
+    "id": "BK009",
+    "name": "Ueno Park Bikes",
+    "district": "Ueno",
+    "lat": 35.7148,
+    "lng": 139.7740,
+    "total_docks": 16,
+    "available_bikes": 0,
+    "available_docks": 16,
+    "status": "low_bikes"
+  },
+  {
+    "id": "BK010",
+    "name": "Odaiba Seaside Cycles",
+    "district": "Odaiba",
+    "lat": 35.6267,
+    "lng": 139.7750,
+    "total_docks": 30,
+    "available_bikes": 20,
+    "available_docks": 10,
+    "status": "active"
+  },
+  {
+    "id": "BK011",
+    "name": "Shinagawa Station Bikes",
+    "district": "Shinagawa",
+    "lat": 35.6284,
+    "lng": 139.7387,
+    "total_docks": 22,
+    "available_bikes": 22,
+    "available_docks": 0,
+    "status": "full"
+  },
+  {
+    "id": "BK012",
+    "name": "Ebisu Garden Cycles",
+    "district": "Ebisu",
+    "lat": 35.6468,
+    "lng": 139.7134,
+    "total_docks": 17,
+    "available_bikes": 8,
+    "available_docks": 9,
+    "status": "active"
+  },
+  {
+    "id": "BK013",
+    "name": "Nakameguro River Bikes",
+    "district": "Nakameguro",
+    "lat": 35.6442,
+    "lng": 139.6990,
+    "total_docks": 14,
+    "available_bikes": 2,
+    "available_docks": 12,
+    "status": "low_bikes"
+  },
+  {
+    "id": "BK014",
+    "name": "Koenji Local Cycles",
+    "district": "Koenji",
+    "lat": 35.7056,
+    "lng": 139.6492,
+    "total_docks": 12,
+    "available_bikes": 6,
+    "available_docks": 6,
+    "status": "active"
+  },
+  {
+    "id": "BK015",
+    "name": "Toyosu Market Bikes",
+    "district": "Toyosu",
+    "lat": 35.6450,
+    "lng": 139.7850,
+    "total_docks": 20,
+    "available_bikes": 0,
+    "available_docks": 20,
+    "status": "offline"
+  }
+]

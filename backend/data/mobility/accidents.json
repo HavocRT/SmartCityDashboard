@@ -1,0 +1,72 @@
+[
+  {
+    "id": "AC001",
+    "location": "Shibuya Crossing",
+    "district": "Shibuya",
+    "lat": 35.6595,
+    "lng": 139.7005,
+    "type": "collision",
+    "severity": "moderate",
+    "vehicles_involved": 2,
+    "injuries_reported": 1,
+    "road_blocked": false,
+    "reported_time": "2026-03-24T08:45:00Z",
+    "status": "active"
+  },
+  {
+    "id": "AC002",
+    "location": "Shinjuku Dori",
+    "district": "Shinjuku",
+    "lat": 35.6900,
+    "lng": 139.6955,
+    "type": "rear-end",
+    "severity": "minor",
+    "vehicles_involved": 2,
+    "injuries_reported": 0,
+    "road_blocked": false,
+    "reported_time": "2026-03-24T09:10:00Z",
+    "status": "active"
+  },
+  {
+    "id": "AC003",
+    "location": "Ginza Chuo Dori",
+    "district": "Ginza",
+    "lat": 35.6718,
+    "lng": 139.7653,
+    "type": "pedestrian",
+    "severity": "moderate",
+    "vehicles_involved": 1,
+    "injuries_reported": 1,
+    "road_blocked": true,
+    "reported_time": "2026-03-24T07:55:00Z",
+    "status": "active"
+  },
+  {
+    "id": "AC004",
+    "location": "Ikebukuro Sunshine Street",
+    "district": "Ikebukuro",
+    "lat": 35.7297,
+    "lng": 139.7107,
+    "type": "breakdown",
+    "severity": "minor",
+    "vehicles_involved": 1,
+    "injuries_reported": 0,
+    "road_blocked": false,
+    "reported_time": "2026-03-24T08:20:00Z",
+    "status": "active"
+  },
+  {
+    "id": "AC005",
+    "location": "Roppongi Hills Road",
+    "district": "Roppongi",
+    "lat": 35.6606,
+    "lng": 139.7290,
+    "type": "collision",
+    "severity": "moderate",
+    "vehicles_involved": 3,
+    "injuries_reported": 1,
+    "road_blocked": true,
+    "reported_time": "2026-03-24T06:50:00Z",
+    "status": "active"
+  }
+]
