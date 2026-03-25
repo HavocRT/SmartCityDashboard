@@ -1,9 +1,12 @@
 const express = require("express");
 const cors = require("cors");
 
+const PORT = 5000;
+
 const app = express();
 
-app.use(cors({ origin: "http://localhost:3000" }));
+const allowedOrigin = "http://localhost:3000"
+app.use(cors({ origin: allowedOrigin }));
 app.use(express.json());
 
 
@@ -179,6 +182,6 @@ app.get("/finance/property-market-trends", (req, res) => {
 });
 
 
-app.listen(5000, () => {
+app.listen(PORT, () => {
     console.log("Server running on http://localhost:5000");
 });
