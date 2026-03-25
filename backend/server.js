@@ -5,7 +5,7 @@ const PORT = 5000;
 
 const app = express();
 
-const allowedOrigin = "http://localhost:3000"
+const allowedOrigin = "http://localhost:5173"
 app.use(cors({ origin: allowedOrigin }));
 app.use(express.json());
 
