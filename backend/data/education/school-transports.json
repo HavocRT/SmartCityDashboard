@@ -1,0 +1,852 @@
+[
+  {
+    "id": "ST001",
+    "vehicle_id": "BUS-1001",
+    "lat": 35.6595,
+    "lng": 139.7005,
+    "institution_id": "ED001",
+    "institution_name": "University of Tokyo",
+    "transport_type": "bus",
+    "current_occupancy": 42,
+    "route_name": "Shibuya Route",
+    "stops": [
+      { "name": "Shibuya", "lat": 35.6595, "lng": 139.7005 },
+      { "name": "Yoyogi", "lat": 35.683, "lng": 139.702 }
+    ],
+    "start_time": "07:30",
+    "end_time": "09:00",
+    "trip_status": "on_time",
+    "average_delay_minutes": 3,
+    "driver_name": "Hiroshi Tanaka",
+    "safety_rating": 4.6
+  },
+  {
+    "id": "ST002",
+    "vehicle_id": "BUS-1002",
+    "lat": 35.6938,
+    "lng": 139.7034,
+    "institution_id": "ED002",
+    "institution_name": "Waseda University",
+    "transport_type": "bus",
+    "current_occupancy": 48,
+    "route_name": "Shinjuku Route",
+    "stops": [
+      { "name": "Shinjuku", "lat": 35.6938, "lng": 139.7034 },
+      { "name": "Takadanobaba", "lat": 35.712, "lng": 139.703 }
+    ],
+    "start_time": "07:20",
+    "end_time": "08:50",
+    "trip_status": "on_time",
+    "average_delay_minutes": 4,
+    "driver_name": "Kenji Sato",
+    "safety_rating": 4.5
+  },
+  {
+    "id": "ST003",
+    "vehicle_id": "VAN-2001",
+    "lat": 35.6721,
+    "lng": 139.7655,
+    "institution_id": "ED003",
+    "institution_name": "Keio University",
+    "transport_type": "van",
+    "current_occupancy": 12,
+    "route_name": "Ginza Route",
+    "stops": [
+      { "name": "Ginza", "lat": 35.6721, "lng": 139.7655 },
+      { "name": "Tamachi", "lat": 35.6457, "lng": 139.747 }
+    ],
+    "start_time": "07:45",
+    "end_time": "09:00",
+    "trip_status": "delayed",
+    "average_delay_minutes": 9,
+    "driver_name": "Taro Yamamoto",
+    "safety_rating": 4.4
+  },
+  {
+    "id": "ST004",
+    "vehicle_id": "BUS-1003",
+    "lat": 35.7138,
+    "lng": 139.7731,
+    "institution_id": "ED004",
+    "institution_name": "Tokyo Institute of Technology",
+    "transport_type": "bus",
+    "current_occupancy": 40,
+    "route_name": "Ueno Route",
+    "stops": [
+      { "name": "Ueno", "lat": 35.7138, "lng": 139.7731 },
+      { "name": "Akihabara", "lat": 35.7023, "lng": 139.7745 }
+    ],
+    "start_time": "07:10",
+    "end_time": "09:00",
+    "trip_status": "on_time",
+    "average_delay_minutes": 2,
+    "driver_name": "Yuki Kobayashi",
+    "safety_rating": 4.5
+  },
+  {
+    "id": "ST005",
+    "vehicle_id": "BUS-1004",
+    "lat": 35.6272,
+    "lng": 139.7765,
+    "institution_id": "ED005",
+    "institution_name": "Sophia University",
+    "transport_type": "bus",
+    "current_occupancy": 44,
+    "route_name": "Odaiba Route",
+    "stops": [
+      { "name": "Odaiba", "lat": 35.6272, "lng": 139.7765 },
+      { "name": "Shimbashi", "lat": 35.6663, "lng": 139.758 }
+    ],
+    "start_time": "07:00",
+    "end_time": "08:45",
+    "trip_status": "on_time",
+    "average_delay_minutes": 5,
+    "driver_name": "Daichi Suzuki",
+    "safety_rating": 4.6
+  },
+
+  {
+    "id": "ST006",
+    "vehicle_id": "BUS-1010",
+    "lat": 35.7295,
+    "lng": 139.7109,
+    "institution_id": "ED011",
+    "institution_name": "Ikebukuro Arts College",
+    "transport_type": "bus",
+    "current_occupancy": 38,
+    "route_name": "Ikebukuro Route",
+    "stops": [
+      { "name": "Ikebukuro", "lat": 35.7295, "lng": 139.7109 },
+      { "name": "Shinjuku", "lat": 35.6938, "lng": 139.7034 }
+    ],
+    "start_time": "07:25",
+    "end_time": "08:55",
+    "trip_status": "on_time",
+    "average_delay_minutes": 3,
+    "driver_name": "Kenta Mori",
+    "safety_rating": 4.4
+  },
+  {
+    "id": "ST007",
+    "vehicle_id": "VAN-2010",
+    "lat": 35.6465,
+    "lng": 139.6531,
+    "institution_id": "ED012",
+    "institution_name": "Odaiba Maritime Academy",
+    "transport_type": "van",
+    "current_occupancy": 11,
+    "route_name": "Setagaya Route",
+    "stops": [
+      { "name": "Setagaya", "lat": 35.6465, "lng": 139.6531 },
+      { "name": "Odaiba", "lat": 35.6272, "lng": 139.7765 }
+    ],
+    "start_time": "07:50",
+    "end_time": "08:40",
+    "trip_status": "on_time",
+    "average_delay_minutes": 2,
+    "driver_name": "Naoki Ito",
+    "safety_rating": 4.3
+  },
+  {
+    "id": "ST008",
+    "vehicle_id": "BUS-1011",
+    "lat": 35.7023,
+    "lng": 139.7745,
+    "institution_id": "ED013",
+    "institution_name": "Setagaya Science High School",
+    "transport_type": "bus",
+    "current_occupancy": 36,
+    "route_name": "Akihabara Route",
+    "stops": [
+      { "name": "Akihabara", "lat": 35.7023, "lng": 139.7745 },
+      { "name": "Setagaya", "lat": 35.6465, "lng": 139.6531 }
+    ],
+    "start_time": "07:30",
+    "end_time": "08:40",
+    "trip_status": "delayed",
+    "average_delay_minutes": 6,
+    "driver_name": "Sho Tanaka",
+    "safety_rating": 4.5
+  },
+  {
+    "id": "ST009",
+    "vehicle_id": "BUS-1012",
+    "lat": 35.6581,
+    "lng": 139.7516,
+    "institution_id": "ED014",
+    "institution_name": "Minato International College",
+    "transport_type": "bus",
+    "current_occupancy": 41,
+    "route_name": "Minato Route",
+    "stops": [
+      { "name": "Minato", "lat": 35.6581, "lng": 139.7516 },
+      { "name": "Ginza", "lat": 35.6721, "lng": 139.7655 }
+    ],
+    "start_time": "07:40",
+    "end_time": "08:30",
+    "trip_status": "on_time",
+    "average_delay_minutes": 1,
+    "driver_name": "Ryo Sakamoto",
+    "safety_rating": 4.3
+  },
+  {
+    "id": "ST010",
+    "vehicle_id": "BUS-1013",
+    "lat": 35.7074,
+    "lng": 139.6638,
+    "institution_id": "ED015",
+    "institution_name": "Chiyoda Law School",
+    "transport_type": "bus",
+    "current_occupancy": 37,
+    "route_name": "Nakano Route",
+    "stops": [
+      { "name": "Nakano", "lat": 35.7074, "lng": 139.6638 },
+      { "name": "Chiyoda", "lat": 35.6939, "lng": 139.7531 }
+    ],
+    "start_time": "07:20",
+    "end_time": "08:50",
+    "trip_status": "on_time",
+    "average_delay_minutes": 4,
+    "driver_name": "Yuta Aoki",
+    "safety_rating": 4.4
+  },
+
+  {
+    "id": "ST011",
+    "vehicle_id": "BUS-1020",
+    "lat": 35.74,
+    "lng": 139.65,
+    "institution_id": "ED030",
+    "institution_name": "Nerima Arts College",
+    "transport_type": "bus",
+    "current_occupancy": 35,
+    "route_name": "Nerima Route",
+    "stops": [
+      { "name": "Nerima", "lat": 35.74, "lng": 139.65 },
+      { "name": "Shinjuku", "lat": 35.6938, "lng": 139.7034 }
+    ],
+    "start_time": "07:15",
+    "end_time": "08:45",
+    "trip_status": "on_time",
+    "average_delay_minutes": 3,
+    "driver_name": "Takeshi Ono",
+    "safety_rating": 4.2
+  },
+  {
+    "id": "ST012",
+    "vehicle_id": "VAN-2020",
+    "lat": 35.78,
+    "lng": 139.8,
+    "institution_id": "ED027",
+    "institution_name": "Adachi Technical School",
+    "transport_type": "van",
+    "current_occupancy": 9,
+    "route_name": "Adachi Route",
+    "stops": [
+      { "name": "Adachi", "lat": 35.78, "lng": 139.8 },
+      { "name": "Kita", "lat": 35.75, "lng": 139.75 }
+    ],
+    "start_time": "07:55",
+    "end_time": "08:35",
+    "trip_status": "on_time",
+    "average_delay_minutes": 2,
+    "driver_name": "Koji Sato",
+    "safety_rating": 4.1
+  },
+  {
+    "id": "ST013",
+    "vehicle_id": "BUS-1021",
+    "lat": 35.6864,
+    "lng": 139.8742,
+    "institution_id": "ED018",
+    "institution_name": "Edogawa Community College",
+    "transport_type": "bus",
+    "current_occupancy": 34,
+    "route_name": "Edogawa Route",
+    "stops": [
+      { "name": "Edogawa", "lat": 35.6864, "lng": 139.8742 },
+      { "name": "Koto", "lat": 35.6495, "lng": 139.8154 }
+    ],
+    "start_time": "07:10",
+    "end_time": "08:40",
+    "trip_status": "delayed",
+    "average_delay_minutes": 7,
+    "driver_name": "Makoto Abe",
+    "safety_rating": 4.2
+  },
+  {
+    "id": "ST014",
+    "vehicle_id": "BUS-1022",
+    "lat": 35.55,
+    "lng": 139.78,
+    "institution_id": "ED031",
+    "institution_name": "Ota Aviation Institute",
+    "transport_type": "bus",
+    "current_occupancy": 39,
+    "route_name": "Ota Route",
+    "stops": [
+      { "name": "Ota", "lat": 35.55, "lng": 139.78 },
+      { "name": "Shinagawa", "lat": 35.63, "lng": 139.74 }
+    ],
+    "start_time": "07:05",
+    "end_time": "08:50",
+    "trip_status": "on_time",
+    "average_delay_minutes": 3,
+    "driver_name": "Hideo Tanaka",
+    "safety_rating": 4.4
+  },
+  {
+    "id": "ST015",
+    "vehicle_id": "BUS-1023",
+    "lat": 35.74,
+    "lng": 139.85,
+    "institution_id": "ED028",
+    "institution_name": "Katsushika Community College",
+    "transport_type": "bus",
+    "current_occupancy": 33,
+    "route_name": "Katsushika Route",
+    "stops": [
+      { "name": "Katsushika", "lat": 35.74, "lng": 139.85 },
+      { "name": "Sumida", "lat": 35.71, "lng": 139.81 }
+    ],
+    "start_time": "07:25",
+    "end_time": "08:55",
+    "trip_status": "on_time",
+    "average_delay_minutes": 4,
+    "driver_name": "Shinji Mori",
+    "safety_rating": 4.3
+  },
+
+  {
+    "id": "ST016",
+    "vehicle_id": "BUS-1024",
+    "lat": 35.72,
+    "lng": 139.76,
+    "institution_id": "ED034",
+    "institution_name": "Bunkyo Science College",
+    "transport_type": "bus",
+    "current_occupancy": 30,
+    "route_name": "Bunkyo Route",
+    "stops": [
+      { "name": "Bunkyo", "lat": 35.72, "lng": 139.76 },
+      { "name": "Ueno", "lat": 35.7138, "lng": 139.7731 }
+    ],
+    "start_time": "07:30",
+    "end_time": "08:45",
+    "trip_status": "on_time",
+    "average_delay_minutes": 3,
+    "driver_name": "Yoshida Ken",
+    "safety_rating": 4.3
+  },
+  {
+    "id": "ST017",
+    "vehicle_id": "VAN-2030",
+    "lat": 35.67,
+    "lng": 139.7,
+    "institution_id": "ED039",
+    "institution_name": "Tokyo Design Institute",
+    "transport_type": "van",
+    "current_occupancy": 10,
+    "route_name": "Harajuku Route",
+    "stops": [
+      { "name": "Harajuku", "lat": 35.6702, "lng": 139.7027 },
+      { "name": "Shibuya", "lat": 35.6595, "lng": 139.7005 }
+    ],
+    "start_time": "07:45",
+    "end_time": "08:30",
+    "trip_status": "on_time",
+    "average_delay_minutes": 2,
+    "driver_name": "Riku Arai",
+    "safety_rating": 4.4
+  },
+  {
+    "id": "ST018",
+    "vehicle_id": "BUS-1025",
+    "lat": 35.66,
+    "lng": 139.78,
+    "institution_id": "ED040",
+    "institution_name": "Tokyo Environmental College",
+    "transport_type": "bus",
+    "current_occupancy": 32,
+    "route_name": "Koto Route",
+    "stops": [
+      { "name": "Koto", "lat": 35.66, "lng": 139.78 },
+      { "name": "Toyosu", "lat": 35.65, "lng": 139.8 }
+    ],
+    "start_time": "07:20",
+    "end_time": "08:50",
+    "trip_status": "on_time",
+    "average_delay_minutes": 3,
+    "driver_name": "Jun Nakata",
+    "safety_rating": 4.2
+  },
+
+  {
+    "id": "ST019",
+    "vehicle_id": "BUS-1026",
+    "lat": 35.75,
+    "lng": 139.7,
+    "institution_id": "ED029",
+    "institution_name": "Itabashi Science High School",
+    "transport_type": "bus",
+    "current_occupancy": 31,
+    "route_name": "Itabashi Route",
+    "stops": [
+      { "name": "Itabashi", "lat": 35.75, "lng": 139.7 },
+      { "name": "Ikebukuro", "lat": 35.7295, "lng": 139.7109 }
+    ],
+    "start_time": "07:35",
+    "end_time": "08:50",
+    "trip_status": "on_time",
+    "average_delay_minutes": 4,
+    "driver_name": "Kazuya Ito",
+    "safety_rating": 4.2
+  },
+  {
+    "id": "ST020",
+    "vehicle_id": "VAN-2040",
+    "lat": 35.71,
+    "lng": 139.81,
+    "institution_id": "ED026",
+    "institution_name": "Sumida Public School",
+    "transport_type": "van",
+    "current_occupancy": 8,
+    "route_name": "Sumida Route",
+    "stops": [
+      { "name": "Sumida", "lat": 35.71, "lng": 139.81 },
+      { "name": "Asakusa", "lat": 35.7148, "lng": 139.7967 }
+    ],
+    "start_time": "07:50",
+    "end_time": "08:30",
+    "trip_status": "on_time",
+    "average_delay_minutes": 1,
+    "driver_name": "Toru Sato",
+    "safety_rating": 4.1
+  },
+
+  {
+    "id": "ST021",
+    "vehicle_id": "BUS-1027",
+    "lat": 35.6333,
+    "lng": 139.7156,
+    "institution_id": "ED016",
+    "institution_name": "Meguro Vocational Institute",
+    "transport_type": "bus",
+    "current_occupancy": 29,
+    "route_name": "Meguro Route",
+    "stops": [
+      { "name": "Meguro", "lat": 35.6333, "lng": 139.7156 },
+      { "name": "Shinagawa", "lat": 35.63, "lng": 139.74 }
+    ],
+    "start_time": "07:20",
+    "end_time": "08:40",
+    "trip_status": "on_time",
+    "average_delay_minutes": 3,
+    "driver_name": "Atsushi Kato",
+    "safety_rating": 4.3
+  },
+  {
+    "id": "ST022",
+    "vehicle_id": "BUS-1028",
+    "lat": 35.7122,
+    "lng": 139.7805,
+    "institution_id": "ED017",
+    "institution_name": "Taito Arts School",
+    "transport_type": "bus",
+    "current_occupancy": 28,
+    "route_name": "Taito Route",
+    "stops": [
+      { "name": "Taito", "lat": 35.7122, "lng": 139.7805 },
+      { "name": "Ueno", "lat": 35.7138, "lng": 139.7731 }
+    ],
+    "start_time": "07:25",
+    "end_time": "08:40",
+    "trip_status": "on_time",
+    "average_delay_minutes": 2,
+    "driver_name": "Masaru Abe",
+    "safety_rating": 4.2
+  },
+  {
+    "id": "ST023",
+    "vehicle_id": "VAN-2050",
+    "lat": 35.7074,
+    "lng": 139.6638,
+    "institution_id": "ED019",
+    "institution_name": "Nakano Business Institute",
+    "transport_type": "van",
+    "current_occupancy": 9,
+    "route_name": "Nakano Route",
+    "stops": [
+      { "name": "Nakano", "lat": 35.7074, "lng": 139.6638 },
+      { "name": "Shinjuku", "lat": 35.6938, "lng": 139.7034 }
+    ],
+    "start_time": "07:50",
+    "end_time": "08:30",
+    "trip_status": "on_time",
+    "average_delay_minutes": 2,
+    "driver_name": "Kohei Suzuki",
+    "safety_rating": 4.2
+  },
+  {
+    "id": "ST024",
+    "vehicle_id": "BUS-1029",
+    "lat": 35.6495,
+    "lng": 139.8154,
+    "institution_id": "ED020",
+    "institution_name": "Koto Engineering College",
+    "transport_type": "bus",
+    "current_occupancy": 35,
+    "route_name": "Koto Route",
+    "stops": [
+      { "name": "Koto", "lat": 35.6495, "lng": 139.8154 },
+      { "name": "Toyosu", "lat": 35.65, "lng": 139.8 }
+    ],
+    "start_time": "07:15",
+    "end_time": "08:45",
+    "trip_status": "on_time",
+    "average_delay_minutes": 3,
+    "driver_name": "Ryoichi Tanaka",
+    "safety_rating": 4.4
+  },
+
+  {
+    "id": "ST025",
+    "vehicle_id": "BUS-1030",
+    "lat": 35.6702,
+    "lng": 139.7027,
+    "institution_id": "ED021",
+    "institution_name": "Harajuku Design School",
+    "transport_type": "bus",
+    "current_occupancy": 27,
+    "route_name": "Harajuku Route",
+    "stops": [
+      { "name": "Harajuku", "lat": 35.6702, "lng": 139.7027 },
+      { "name": "Shibuya", "lat": 35.6595, "lng": 139.7005 }
+    ],
+    "start_time": "07:30",
+    "end_time": "08:30",
+    "trip_status": "on_time",
+    "average_delay_minutes": 2,
+    "driver_name": "Yuma Saito",
+    "safety_rating": 4.3
+  },
+  {
+    "id": "ST026",
+    "vehicle_id": "BUS-1031",
+    "lat": 35.7148,
+    "lng": 139.7967,
+    "institution_id": "ED022",
+    "institution_name": "Asakusa Cultural College",
+    "transport_type": "bus",
+    "current_occupancy": 30,
+    "route_name": "Asakusa Route",
+    "stops": [
+      { "name": "Asakusa", "lat": 35.7148, "lng": 139.7967 },
+      { "name": "Ueno", "lat": 35.7138, "lng": 139.7731 }
+    ],
+    "start_time": "07:20",
+    "end_time": "08:40",
+    "trip_status": "on_time",
+    "average_delay_minutes": 3,
+    "driver_name": "Shota Kondo",
+    "safety_rating": 4.2
+  },
+
+  {
+    "id": "ST027",
+    "vehicle_id": "BUS-1032",
+    "lat": 35.691,
+    "lng": 139.7,
+    "institution_id": "ED023",
+    "institution_name": "Tokyo Medical University",
+    "transport_type": "bus",
+    "current_occupancy": 41,
+    "route_name": "Medical Route",
+    "stops": [
+      { "name": "Shinjuku", "lat": 35.6938, "lng": 139.7034 },
+      { "name": "Hospital Zone", "lat": 35.69, "lng": 139.7 }
+    ],
+    "start_time": "07:10",
+    "end_time": "08:40",
+    "trip_status": "delayed",
+    "average_delay_minutes": 6,
+    "driver_name": "Kenta Yamamoto",
+    "safety_rating": 4.5
+  },
+  {
+    "id": "ST028",
+    "vehicle_id": "BUS-1033",
+    "lat": 35.72,
+    "lng": 139.77,
+    "institution_id": "ED024",
+    "institution_name": "Tokyo Arts University",
+    "transport_type": "bus",
+    "current_occupancy": 33,
+    "route_name": "Arts Route",
+    "stops": [
+      { "name": "Ueno", "lat": 35.7138, "lng": 139.7731 },
+      { "name": "Campus", "lat": 35.72, "lng": 139.77 }
+    ],
+    "start_time": "07:30",
+    "end_time": "08:45",
+    "trip_status": "on_time",
+    "average_delay_minutes": 2,
+    "driver_name": "Daiki Fujita",
+    "safety_rating": 4.4
+  },
+  {
+    "id": "ST029",
+    "vehicle_id": "BUS-1034",
+    "lat": 35.68,
+    "lng": 139.76,
+    "institution_id": "ED025",
+    "institution_name": "Tokyo Business University",
+    "transport_type": "bus",
+    "current_occupancy": 39,
+    "route_name": "Business Route",
+    "stops": [
+      { "name": "Chiyoda", "lat": 35.68, "lng": 139.76 },
+      { "name": "Tokyo Station", "lat": 35.6812, "lng": 139.7671 }
+    ],
+    "start_time": "07:15",
+    "end_time": "08:50",
+    "trip_status": "on_time",
+    "average_delay_minutes": 4,
+    "driver_name": "Masaki Ito",
+    "safety_rating": 4.5
+  },
+
+  {
+    "id": "ST030",
+    "vehicle_id": "BUS-1035",
+    "lat": 35.63,
+    "lng": 139.74,
+    "institution_id": "ED032",
+    "institution_name": "Shinagawa Business College",
+    "transport_type": "bus",
+    "current_occupancy": 34,
+    "route_name": "Shinagawa Route",
+    "stops": [
+      { "name": "Shinagawa", "lat": 35.63, "lng": 139.74 },
+      { "name": "Tamachi", "lat": 35.6457, "lng": 139.747 }
+    ],
+    "start_time": "07:25",
+    "end_time": "08:40",
+    "trip_status": "on_time",
+    "average_delay_minutes": 3,
+    "driver_name": "Takumi Sato",
+    "safety_rating": 4.3
+  },
+  {
+    "id": "ST031",
+    "vehicle_id": "VAN-2060",
+    "lat": 35.63,
+    "lng": 139.71,
+    "institution_id": "ED033",
+    "institution_name": "Meguro International School",
+    "transport_type": "van",
+    "current_occupancy": 10,
+    "route_name": "Meguro Route",
+    "stops": [
+      { "name": "Meguro", "lat": 35.63, "lng": 139.71 },
+      { "name": "Ebisu", "lat": 35.6467, "lng": 139.71 }
+    ],
+    "start_time": "07:45",
+    "end_time": "08:30",
+    "trip_status": "on_time",
+    "average_delay_minutes": 2,
+    "driver_name": "Ren Takahashi",
+    "safety_rating": 4.4
+  },
+
+  {
+    "id": "ST032",
+    "vehicle_id": "BUS-1036",
+    "lat": 35.68,
+    "lng": 139.75,
+    "institution_id": "ED037",
+    "institution_name": "Tokyo Language School",
+    "transport_type": "bus",
+    "current_occupancy": 28,
+    "route_name": "Language Route",
+    "stops": [
+      { "name": "Chiyoda", "lat": 35.68, "lng": 139.75 },
+      { "name": "Kanda", "lat": 35.6917, "lng": 139.77 }
+    ],
+    "start_time": "07:30",
+    "end_time": "08:40",
+    "trip_status": "on_time",
+    "average_delay_minutes": 2,
+    "driver_name": "Yoshio Tanaka",
+    "safety_rating": 4.2
+  },
+  {
+    "id": "ST033",
+    "vehicle_id": "BUS-1037",
+    "lat": 35.69,
+    "lng": 139.72,
+    "institution_id": "ED038",
+    "institution_name": "Tokyo Nursing College",
+    "transport_type": "bus",
+    "current_occupancy": 31,
+    "route_name": "Nursing Route",
+    "stops": [
+      { "name": "Shinjuku", "lat": 35.6938, "lng": 139.7034 },
+      { "name": "Hospital", "lat": 35.69, "lng": 139.72 }
+    ],
+    "start_time": "07:20",
+    "end_time": "08:45",
+    "trip_status": "on_time",
+    "average_delay_minutes": 3,
+    "driver_name": "Naoto Suzuki",
+    "safety_rating": 4.4
+  },
+
+  {
+    "id": "ST034",
+    "vehicle_id": "BUS-1038",
+    "lat": 35.74,
+    "lng": 139.65,
+    "institution_id": "ED030",
+    "institution_name": "Nerima Arts College",
+    "transport_type": "bus",
+    "current_occupancy": 29,
+    "route_name": "Nerima Route B",
+    "stops": [
+      { "name": "Nerima", "lat": 35.74, "lng": 139.65 },
+      { "name": "Ikebukuro", "lat": 35.7295, "lng": 139.7109 }
+    ],
+    "start_time": "07:40",
+    "end_time": "08:55",
+    "trip_status": "on_time",
+    "average_delay_minutes": 3,
+    "driver_name": "Hikaru Mori",
+    "safety_rating": 4.2
+  },
+  {
+    "id": "ST035",
+    "vehicle_id": "BUS-1039",
+    "lat": 35.78,
+    "lng": 139.8,
+    "institution_id": "ED027",
+    "institution_name": "Adachi Technical School",
+    "transport_type": "bus",
+    "current_occupancy": 32,
+    "route_name": "Adachi Route B",
+    "stops": [
+      { "name": "Adachi", "lat": 35.78, "lng": 139.8 },
+      { "name": "Kita", "lat": 35.75, "lng": 139.75 }
+    ],
+    "start_time": "07:25",
+    "end_time": "08:50",
+    "trip_status": "on_time",
+    "average_delay_minutes": 4,
+    "driver_name": "Kazuhiro Sato",
+    "safety_rating": 4.2
+  },
+  {
+    "id": "ST036",
+    "vehicle_id": "VAN-2070",
+    "lat": 35.71,
+    "lng": 139.81,
+    "institution_id": "ED026",
+    "institution_name": "Sumida Public School",
+    "transport_type": "van",
+    "current_occupancy": 9,
+    "route_name": "Sumida Route B",
+    "stops": [
+      { "name": "Sumida", "lat": 35.71, "lng": 139.81 },
+      { "name": "Asakusa", "lat": 35.7148, "lng": 139.7967 }
+    ],
+    "start_time": "07:50",
+    "end_time": "08:35",
+    "trip_status": "on_time",
+    "average_delay_minutes": 1,
+    "driver_name": "Toru Kato",
+    "safety_rating": 4.1
+  },
+  {
+    "id": "ST037",
+    "vehicle_id": "BUS-1040",
+    "lat": 35.6864,
+    "lng": 139.8742,
+    "institution_id": "ED018",
+    "institution_name": "Edogawa Community College",
+    "transport_type": "bus",
+    "current_occupancy": 33,
+    "route_name": "Edogawa Route B",
+    "stops": [
+      { "name": "Edogawa", "lat": 35.6864, "lng": 139.8742 },
+      { "name": "Koto", "lat": 35.6495, "lng": 139.8154 }
+    ],
+    "start_time": "07:30",
+    "end_time": "08:55",
+    "trip_status": "on_time",
+    "average_delay_minutes": 3,
+    "driver_name": "Ryo Tanaka",
+    "safety_rating": 4.3
+  },
+  {
+    "id": "ST038",
+    "vehicle_id": "BUS-1041",
+    "lat": 35.55,
+    "lng": 139.78,
+    "institution_id": "ED031",
+    "institution_name": "Ota Aviation Institute",
+    "transport_type": "bus",
+    "current_occupancy": 36,
+    "route_name": "Ota Route B",
+    "stops": [
+      { "name": "Ota", "lat": 35.55, "lng": 139.78 },
+      { "name": "Shinagawa", "lat": 35.63, "lng": 139.74 }
+    ],
+    "start_time": "07:20",
+    "end_time": "08:50",
+    "trip_status": "on_time",
+    "average_delay_minutes": 4,
+    "driver_name": "Yuki Sato",
+    "safety_rating": 4.4
+  },
+  {
+    "id": "ST039",
+    "vehicle_id": "BUS-1042",
+    "lat": 35.74,
+    "lng": 139.85,
+    "institution_id": "ED028",
+    "institution_name": "Katsushika Community College",
+    "transport_type": "bus",
+    "current_occupancy": 31,
+    "route_name": "Katsushika Route B",
+    "stops": [
+      { "name": "Katsushika", "lat": 35.74, "lng": 139.85 },
+      { "name": "Sumida", "lat": 35.71, "lng": 139.81 }
+    ],
+    "start_time": "07:35",
+    "end_time": "08:55",
+    "trip_status": "on_time",
+    "average_delay_minutes": 3,
+    "driver_name": "Shinji Arai",
+    "safety_rating": 4.3
+  },
+  {
+    "id": "ST040",
+    "vehicle_id": "BUS-1043",
+    "lat": 35.72,
+    "lng": 139.76,
+    "institution_id": "ED034",
+    "institution_name": "Bunkyo Science College",
+    "transport_type": "bus",
+    "current_occupancy": 30,
+    "route_name": "Bunkyo Route B",
+    "stops": [
+      { "name": "Bunkyo", "lat": 35.72, "lng": 139.76 },
+      { "name": "Ueno", "lat": 35.7138, "lng": 139.7731 }
+    ],
+    "start_time": "07:25",
+    "end_time": "08:40",
+    "trip_status": "on_time",
+    "average_delay_minutes": 2,
+    "driver_name": "Ken Aoki",
+    "safety_rating": 4.3
+  }
+]
