@@ -1,0 +1,317 @@
+[
+  {
+    "id": "TR001",
+    "zone_name": "Shibuya Crossing Area",
+    "lat": 35.6595,
+    "lng": 139.7005,
+    "zone_type": "entertainment",
+    "daily_tourists_avg": 125000,
+    "peak_hour_range": { "start": "18:00", "end": "21:00" },
+    "top_nationalities": [
+      { "country": "USA", "percentage": 30 },
+      { "country": "South Korea", "percentage": 20 },
+      { "country": "China", "percentage": 18 }
+    ],
+    "avg_stay_minutes": 100,
+    "hotspot_score": 9.8,
+    "congestion_level": "extreme",
+    "transport_access_score": 9.5,
+    "nearby_attractions": ["Shibuya Sky", "Hachiko Statue", "Scramble Square"],
+    "seasonality_index": { "spring": 1.3, "summer": 1.1, "autumn": 1.0, "winter": 0.9 },
+    "trend": "rising"
+  },
+  {
+    "id": "TR002",
+    "zone_name": "Shinjuku Central District",
+    "lat": 35.6938,
+    "lng": 139.7034,
+    "zone_type": "commercial",
+    "daily_tourists_avg": 110000,
+    "peak_hour_range": { "start": "19:00", "end": "22:00" },
+    "top_nationalities": [
+      { "country": "China", "percentage": 25 },
+      { "country": "USA", "percentage": 22 },
+      { "country": "Thailand", "percentage": 15 }
+    ],
+    "avg_stay_minutes": 120,
+    "hotspot_score": 9.6,
+    "congestion_level": "extreme",
+    "transport_access_score": 9.8,
+    "nearby_attractions": ["Kabukicho", "Tokyo Metropolitan Building", "Golden Gai"],
+    "seasonality_index": { "spring": 1.2, "summer": 1.1, "autumn": 1.0, "winter": 1.0 },
+    "trend": "rising"
+  },
+  {
+    "id": "TR003",
+    "zone_name": "Akihabara Electronics Town",
+    "lat": 35.6983,
+    "lng": 139.7731,
+    "zone_type": "commercial",
+    "daily_tourists_avg": 85000,
+    "peak_hour_range": { "start": "13:00", "end": "17:00" },
+    "top_nationalities": [
+      { "country": "USA", "percentage": 27 },
+      { "country": "France", "percentage": 18 },
+      { "country": "China", "percentage": 20 }
+    ],
+    "avg_stay_minutes": 90,
+    "hotspot_score": 9.1,
+    "congestion_level": "high",
+    "transport_access_score": 9.4,
+    "nearby_attractions": ["Akihabara Radio Kaikan", "Anime Stores", "Maid Cafes"],
+    "seasonality_index": { "spring": 1.1, "summer": 1.0, "autumn": 1.0, "winter": 1.2 },
+    "trend": "stable"
+  },
+  {
+    "id": "TR004",
+    "zone_name": "Asakusa Sensoji Temple Area",
+    "lat": 35.7147,
+    "lng": 139.7967,
+    "zone_type": "historical",
+    "daily_tourists_avg": 95000,
+    "peak_hour_range": { "start": "10:00", "end": "14:00" },
+    "top_nationalities": [
+      { "country": "China", "percentage": 28 },
+      { "country": "USA", "percentage": 24 },
+      { "country": "Italy", "percentage": 12 }
+    ],
+    "avg_stay_minutes": 80,
+    "hotspot_score": 8.9,
+    "congestion_level": "high",
+    "transport_access_score": 8.8,
+    "nearby_attractions": ["Sensoji Temple", "Nakamise Street", "Sumida River"],
+    "seasonality_index": { "spring": 1.4, "summer": 1.2, "autumn": 1.1, "winter": 1.0 },
+    "trend": "rising"
+  },
+  {
+    "id": "TR005",
+    "zone_name": "Ginza Luxury District",
+    "lat": 35.6717,
+    "lng": 139.7649,
+    "zone_type": "commercial",
+    "daily_tourists_avg": 70000,
+    "peak_hour_range": { "start": "14:00", "end": "19:00" },
+    "top_nationalities": [
+      { "country": "USA", "percentage": 26 },
+      { "country": "France", "percentage": 22 },
+      { "country": "Singapore", "percentage": 15 }
+    ],
+    "avg_stay_minutes": 110,
+    "hotspot_score": 8.7,
+    "congestion_level": "medium",
+    "transport_access_score": 9.6,
+    "nearby_attractions": ["Ginza Six", "Kabuki-za", "Luxury Boutiques"],
+    "seasonality_index": { "spring": 1.1, "summer": 1.0, "autumn": 1.0, "winter": 1.1 },
+    "trend": "stable"
+  },
+  {
+    "id": "TR006",
+    "zone_name": "Odaiba Waterfront",
+    "lat": 35.6295,
+    "lng": 139.7765,
+    "zone_type": "entertainment",
+    "daily_tourists_avg": 65000,
+    "peak_hour_range": { "start": "16:00", "end": "20:00" },
+    "top_nationalities": [
+      { "country": "China", "percentage": 23 },
+      { "country": "USA", "percentage": 21 },
+      { "country": "Australia", "percentage": 14 }
+    ],
+    "avg_stay_minutes": 130,
+    "hotspot_score": 8.6,
+    "congestion_level": "medium",
+    "transport_access_score": 8.9,
+    "nearby_attractions": ["Rainbow Bridge", "teamLab", "DiverCity"],
+    "seasonality_index": { "spring": 1.2, "summer": 1.3, "autumn": 1.0, "winter": 0.9 },
+    "trend": "rising"
+  },
+  {
+    "id": "TR007",
+    "zone_name": "Ueno Park Cultural Zone",
+    "lat": 35.7156,
+    "lng": 139.7739,
+    "zone_type": "cultural",
+    "daily_tourists_avg": 90000,
+    "peak_hour_range": { "start": "09:00", "end": "13:00" },
+    "top_nationalities": [
+      { "country": "China", "percentage": 29 },
+      { "country": "USA", "percentage": 20 },
+      { "country": "Germany", "percentage": 13 }
+    ],
+    "avg_stay_minutes": 85,
+    "hotspot_score": 8.8,
+    "congestion_level": "high",
+    "transport_access_score": 9.2,
+    "nearby_attractions": ["Ueno Zoo", "Museums", "Cherry Blossoms"],
+    "seasonality_index": { "spring": 1.5, "summer": 1.1, "autumn": 1.0, "winter": 0.9 },
+    "trend": "stable"
+  },
+  {
+    "id": "TR008",
+    "zone_name": "Tokyo Station Business Hub",
+    "lat": 35.6812,
+    "lng": 139.7671,
+    "zone_type": "transport_hub",
+    "daily_tourists_avg": 80000,
+    "peak_hour_range": { "start": "08:00", "end": "10:00" },
+    "top_nationalities": [
+      { "country": "USA", "percentage": 20 },
+      { "country": "China", "percentage": 18 },
+      { "country": "UK", "percentage": 15 }
+    ],
+    "avg_stay_minutes": 60,
+    "hotspot_score": 8.5,
+    "congestion_level": "high",
+    "transport_access_score": 10.0,
+    "nearby_attractions": ["Tokyo Station", "Imperial Palace", "Marunouchi"],
+    "seasonality_index": { "spring": 1.1, "summer": 1.0, "autumn": 1.0, "winter": 1.0 },
+    "trend": "stable"
+  },
+  {
+    "id": "TR009",
+    "zone_name": "Harajuku Fashion District",
+    "lat": 35.6702,
+    "lng": 139.7027,
+    "zone_type": "entertainment",
+    "daily_tourists_avg": 78000,
+    "peak_hour_range": { "start": "14:00", "end": "18:00" },
+    "top_nationalities": [
+      { "country": "USA", "percentage": 28 },
+      { "country": "France", "percentage": 20 },
+      { "country": "South Korea", "percentage": 16 }
+    ],
+    "avg_stay_minutes": 105,
+    "hotspot_score": 9.0,
+    "congestion_level": "high",
+    "transport_access_score": 9.3,
+    "nearby_attractions": ["Takeshita Street", "Meiji Shrine", "Omotesando"],
+    "seasonality_index": { "spring": 1.2, "summer": 1.1, "autumn": 1.0, "winter": 1.0 },
+    "trend": "rising"
+  },
+  {
+    "id": "TR010",
+    "zone_name": "Roppongi Nightlife Zone",
+    "lat": 35.6605,
+    "lng": 139.7292,
+    "zone_type": "entertainment",
+    "daily_tourists_avg": 60000,
+    "peak_hour_range": { "start": "20:00", "end": "02:00" },
+    "top_nationalities": [
+      { "country": "USA", "percentage": 32 },
+      { "country": "UK", "percentage": 18 },
+      { "country": "Australia", "percentage": 14 }
+    ],
+    "avg_stay_minutes": 140,
+    "hotspot_score": 8.7,
+    "congestion_level": "medium",
+    "transport_access_score": 9.0,
+    "nearby_attractions": ["Roppongi Hills", "Mori Art Museum", "Nightclubs"],
+    "seasonality_index": { "spring": 1.1, "summer": 1.2, "autumn": 1.0, "winter": 1.0 },
+    "trend": "stable"
+  },
+  {
+    "id": "TR011",
+    "zone_name": "Ikebukuro Entertainment District",
+    "lat": 35.7295,
+    "lng": 139.7109,
+    "zone_type": "entertainment",
+    "daily_tourists_avg": 72000,
+    "peak_hour_range": { "start": "15:00", "end": "20:00" },
+    "top_nationalities": [
+      { "country": "China", "percentage": 24 },
+      { "country": "USA", "percentage": 22 },
+      { "country": "Thailand", "percentage": 15 }
+    ],
+    "avg_stay_minutes": 110,
+    "hotspot_score": 8.6,
+    "congestion_level": "high",
+    "transport_access_score": 9.4,
+    "nearby_attractions": ["Sunshine City", "Anime Shops", "Aquarium"],
+    "seasonality_index": { "spring": 1.1, "summer": 1.0, "autumn": 1.0, "winter": 1.1 },
+    "trend": "rising"
+  },
+  {
+    "id": "TR012",
+    "zone_name": "Yanaka Historic Town",
+    "lat": 35.7279,
+    "lng": 139.7690,
+    "zone_type": "historical",
+    "daily_tourists_avg": 40000,
+    "peak_hour_range": { "start": "10:00", "end": "15:00" },
+    "top_nationalities": [
+      { "country": "USA", "percentage": 25 },
+      { "country": "France", "percentage": 20 },
+      { "country": "Italy", "percentage": 15 }
+    ],
+    "avg_stay_minutes": 75,
+    "hotspot_score": 8.2,
+    "congestion_level": "medium",
+    "transport_access_score": 8.3,
+    "nearby_attractions": ["Yanaka Ginza", "Temples", "Old Tokyo Streets"],
+    "seasonality_index": { "spring": 1.3, "summer": 1.0, "autumn": 1.1, "winter": 0.9 },
+    "trend": "stable"
+  },
+  {
+    "id": "TR013",
+    "zone_name": "Tsukiji Outer Market",
+    "lat": 35.6654,
+    "lng": 139.7707,
+    "zone_type": "commercial",
+    "daily_tourists_avg": 85000,
+    "peak_hour_range": { "start": "08:00", "end": "12:00" },
+    "top_nationalities": [
+      { "country": "USA", "percentage": 26 },
+      { "country": "China", "percentage": 22 },
+      { "country": "Thailand", "percentage": 14 }
+    ],
+    "avg_stay_minutes": 70,
+    "hotspot_score": 8.9,
+    "congestion_level": "high",
+    "transport_access_score": 9.1,
+    "nearby_attractions": ["Seafood Market", "Food Stalls", "Ginza Nearby"],
+    "seasonality_index": { "spring": 1.2, "summer": 1.1, "autumn": 1.0, "winter": 1.0 },
+    "trend": "rising"
+  },
+  {
+    "id": "TR014",
+    "zone_name": "Meiji Shrine Forest Zone",
+    "lat": 35.6764,
+    "lng": 139.6993,
+    "zone_type": "cultural",
+    "daily_tourists_avg": 60000,
+    "peak_hour_range": { "start": "09:00", "end": "14:00" },
+    "top_nationalities": [
+      { "country": "USA", "percentage": 27 },
+      { "country": "France", "percentage": 19 },
+      { "country": "China", "percentage": 18 }
+    ],
+    "avg_stay_minutes": 90,
+    "hotspot_score": 8.5,
+    "congestion_level": "medium",
+    "transport_access_score": 9.0,
+    "nearby_attractions": ["Meiji Shrine", "Yoyogi Park", "Harajuku Nearby"],
+    "seasonality_index": { "spring": 1.4, "summer": 1.1, "autumn": 1.2, "winter": 1.0 },
+    "trend": "stable"
+  },
+  {
+    "id": "TR015",
+    "zone_name": "Tokyo Skytree Area",
+    "lat": 35.7101,
+    "lng": 139.8107,
+    "zone_type": "entertainment",
+    "daily_tourists_avg": 95000,
+    "peak_hour_range": { "start": "17:00", "end": "21:00" },
+    "top_nationalities": [
+      { "country": "China", "percentage": 30 },
+      { "country": "USA", "percentage": 21 },
+      { "country": "South Korea", "percentage": 17 }
+    ],
+    "avg_stay_minutes": 120,
+    "hotspot_score": 9.3,
+    "congestion_level": "high",
+    "transport_access_score": 9.2,
+    "nearby_attractions": ["Tokyo Skytree", "Sumida Aquarium", "Shopping Mall"],
+    "seasonality_index": { "spring": 1.2, "summer": 1.2, "autumn": 1.0, "winter": 1.1 },
+    "trend": "rising"
+  }
+]
