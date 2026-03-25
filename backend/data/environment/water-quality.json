@@ -11,7 +11,7 @@
     "contamination_level": "low",
     "water_quality_index": 85,
     "status": "safe",
-    "last_updated": "2026-03-24T09:00:00Z"
+    "last_updated": "2026-03-24T09:00:00"
   },
   {
     "id": "WQ002",
@@ -25,7 +25,7 @@
     "contamination_level": "low",
     "water_quality_index": 80,
     "status": "safe",
-    "last_updated": "2026-03-24T09:05:00Z"
+    "last_updated": "2026-03-24T09:05:00"
   },
   {
     "id": "WQ003",
@@ -39,7 +39,7 @@
     "contamination_level": "moderate",
     "water_quality_index": 72,
     "status": "warning",
-    "last_updated": "2026-03-24T09:10:00Z"
+    "last_updated": "2026-03-24T09:10:00"
   },
   {
     "id": "WQ004",
@@ -53,7 +53,7 @@
     "contamination_level": "moderate",
     "water_quality_index": 68,
     "status": "warning",
-    "last_updated": "2026-03-24T08:55:00Z"
+    "last_updated": "2026-03-24T08:55:00"
   },
   {
     "id": "WQ005",
@@ -67,7 +67,7 @@
     "contamination_level": "moderate",
     "water_quality_index": 74,
     "status": "warning",
-    "last_updated": "2026-03-24T09:00:00Z"
+    "last_updated": "2026-03-24T09:00:00"
   },
   {
     "id": "WQ006",
@@ -81,7 +81,7 @@
     "contamination_level": "low",
     "water_quality_index": 88,
     "status": "safe",
-    "last_updated": "2026-03-24T09:15:00Z"
+    "last_updated": "2026-03-24T09:15:00"
   },
   {
     "id": "WQ007",
@@ -95,7 +95,7 @@
     "contamination_level": "low",
     "water_quality_index": 90,
     "status": "safe",
-    "last_updated": "2026-03-24T09:20:00Z"
+    "last_updated": "2026-03-24T09:20:00"
   },
   {
     "id": "WQ008",
@@ -109,7 +109,7 @@
     "contamination_level": "moderate",
     "water_quality_index": 70,
     "status": "warning",
-    "last_updated": "2026-03-24T09:10:00Z"
+    "last_updated": "2026-03-24T09:10:00"
   },
   {
     "id": "WQ009",
@@ -123,7 +123,7 @@
     "contamination_level": "high",
     "water_quality_index": 60,
     "status": "unsafe",
-    "last_updated": "2026-03-24T09:25:00Z"
+    "last_updated": "2026-03-24T09:25:00"
   },
   {
     "id": "WQ010",
@@ -137,6 +137,6 @@
     "contamination_level": "low",
     "water_quality_index": 92,
     "status": "safe",
-    "last_updated": "2026-03-24T09:05:00Z"
+    "last_updated": "2026-03-24T09:05:00"
   }
 ]

@@ -11,7 +11,7 @@
     "wind_direction": "NE",
     "rainfall_mm": 2.5,
     "condition": "partly_cloudy",
-    "last_updated": "2026-03-24T09:00:00Z",
+    "last_updated": "2026-03-24T09:00:00",
     "status": "active"
   },
   {
@@ -26,7 +26,7 @@
     "wind_direction": "E",
     "rainfall_mm": 0,
     "condition": "clear",
-    "last_updated": "2026-03-24T09:05:00Z",
+    "last_updated": "2026-03-24T09:05:00",
     "status": "active"
   },
   {
@@ -41,7 +41,7 @@
     "wind_direction": "SE",
     "rainfall_mm": 1.2,
     "condition": "cloudy",
-    "last_updated": "2026-03-24T08:55:00Z",
+    "last_updated": "2026-03-24T08:55:00",
     "status": "active"
   },
   {
@@ -56,7 +56,7 @@
     "wind_direction": "N",
     "rainfall_mm": 0,
     "condition": "clear",
-    "last_updated": "2026-03-24T09:10:00Z",
+    "last_updated": "2026-03-24T09:10:00",
     "status": "active"
   },
   {
@@ -71,7 +71,7 @@
     "wind_direction": "NE",
     "rainfall_mm": 3.5,
     "condition": "rain",
-    "last_updated": "2026-03-24T08:50:00Z",
+    "last_updated": "2026-03-24T08:50:00",
     "status": "active"
   },
   {
@@ -86,7 +86,7 @@
     "wind_direction": "NW",
     "rainfall_mm": 0.5,
     "condition": "partly_cloudy",
-    "last_updated": "2026-03-24T09:15:00Z",
+    "last_updated": "2026-03-24T09:15:00",
     "status": "active"
   },
   {
@@ -101,7 +101,7 @@
     "wind_direction": "S",
     "rainfall_mm": 0,
     "condition": "clear",
-    "last_updated": "2026-03-24T09:00:00Z",
+    "last_updated": "2026-03-24T09:00:00",
     "status": "active"
   },
   {
@@ -116,7 +116,7 @@
     "wind_direction": "E",
     "rainfall_mm": 0,
     "condition": "clear",
-    "last_updated": "2026-03-24T09:08:00Z",
+    "last_updated": "2026-03-24T09:08:00",
     "status": "active"
   },
   {
@@ -131,7 +131,7 @@
     "wind_direction": "NE",
     "rainfall_mm": 1.0,
     "condition": "cloudy",
-    "last_updated": "2026-03-24T08:45:00Z",
+    "last_updated": "2026-03-24T08:45:00",
     "status": "active"
   },
   {
@@ -146,7 +146,7 @@
     "wind_direction": "SE",
     "rainfall_mm": 4.2,
     "condition": "rain",
-    "last_updated": "2026-03-24T09:12:00Z",
+    "last_updated": "2026-03-24T09:12:00",
     "status": "active"
   },
   {
@@ -161,7 +161,7 @@
     "wind_direction": "S",
     "rainfall_mm": 0.8,
     "condition": "partly_cloudy",
-    "last_updated": "2026-03-24T09:20:00Z",
+    "last_updated": "2026-03-24T09:20:00",
     "status": "active"
   },
   {
@@ -176,7 +176,7 @@
     "wind_direction": "E",
     "rainfall_mm": 0,
     "condition": "clear",
-    "last_updated": "2026-03-24T09:05:00Z",
+    "last_updated": "2026-03-24T09:05:00",
     "status": "active"
   },
   {
@@ -191,7 +191,7 @@
     "wind_direction": "NE",
     "rainfall_mm": 0.6,
     "condition": "cloudy",
-    "last_updated": "2026-03-24T08:55:00Z",
+    "last_updated": "2026-03-24T08:55:00",
     "status": "active"
   },
   {
@@ -206,7 +206,7 @@
     "wind_direction": "N",
     "rainfall_mm": 2.0,
     "condition": "rain",
-    "last_updated": "2026-03-24T08:50:00Z",
+    "last_updated": "2026-03-24T08:50:00",
     "status": "active"
   },
   {
@@ -221,7 +221,7 @@
     "wind_direction": "SE",
     "rainfall_mm": 3.0,
     "condition": "rain",
-    "last_updated": "2026-03-24T09:10:00Z",
+    "last_updated": "2026-03-24T09:10:00",
     "status": "active"
   }
 ]

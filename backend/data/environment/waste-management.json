@@ -10,7 +10,7 @@
     "collection_efficiency": 92,
     "bin_fill_level_percent": 70,
     "status": "normal",
-    "last_updated": "2026-03-24T09:00:00Z"
+    "last_updated": "2026-03-24T09:00:00"
   },
   {
     "id": "WM002",
@@ -23,7 +23,7 @@
     "collection_efficiency": 88,
     "bin_fill_level_percent": 85,
     "status": "overload",
-    "last_updated": "2026-03-24T09:05:00Z"
+    "last_updated": "2026-03-24T09:05:00"
   },
   {
     "id": "WM003",
@@ -36,7 +36,7 @@
     "collection_efficiency": 90,
     "bin_fill_level_percent": 65,
     "status": "normal",
-    "last_updated": "2026-03-24T08:55:00Z"
+    "last_updated": "2026-03-24T08:55:00"
   },
   {
     "id": "WM004",
@@ -49,7 +49,7 @@
     "collection_efficiency": 85,
     "bin_fill_level_percent": 75,
     "status": "normal",
-    "last_updated": "2026-03-24T09:10:00Z"
+    "last_updated": "2026-03-24T09:10:00"
   },
   {
     "id": "WM005",
@@ -62,7 +62,7 @@
     "collection_efficiency": 80,
     "bin_fill_level_percent": 78,
     "status": "normal",
-    "last_updated": "2026-03-24T08:50:00Z"
+    "last_updated": "2026-03-24T08:50:00"
   },
   {
     "id": "WM006",
@@ -75,7 +75,7 @@
     "collection_efficiency": 87,
     "bin_fill_level_percent": 82,
     "status": "overload",
-    "last_updated": "2026-03-24T09:15:00Z"
+    "last_updated": "2026-03-24T09:15:00"
   },
   {
     "id": "WM007",
@@ -88,7 +88,7 @@
     "collection_efficiency": 89,
     "bin_fill_level_percent": 68,
     "status": "normal",
-    "last_updated": "2026-03-24T09:00:00Z"
+    "last_updated": "2026-03-24T09:00:00"
   },
   {
     "id": "WM008",
@@ -101,7 +101,7 @@
     "collection_efficiency": 84,
     "bin_fill_level_percent": 72,
     "status": "normal",
-    "last_updated": "2026-03-24T09:08:00Z"
+    "last_updated": "2026-03-24T09:08:00"
   },
   {
     "id": "WM009",
@@ -114,7 +114,7 @@
     "collection_efficiency": 83,
     "bin_fill_level_percent": 76,
     "status": "normal",
-    "last_updated": "2026-03-24T08:45:00Z"
+    "last_updated": "2026-03-24T08:45:00"
   },
   {
     "id": "WM010",
@@ -127,7 +127,7 @@
     "collection_efficiency": 91,
     "bin_fill_level_percent": 60,
     "status": "underutilized",
-    "last_updated": "2026-03-24T09:12:00Z"
+    "last_updated": "2026-03-24T09:12:00"
   },
   {
     "id": "WM011",
@@ -140,7 +140,7 @@
     "collection_efficiency": 88,
     "bin_fill_level_percent": 80,
     "status": "overload",
-    "last_updated": "2026-03-24T09:20:00Z"
+    "last_updated": "2026-03-24T09:20:00"
   },
   {
     "id": "WM012",
@@ -153,7 +153,7 @@
     "collection_efficiency": 86,
     "bin_fill_level_percent": 70,
     "status": "normal",
-    "last_updated": "2026-03-24T09:05:00Z"
+    "last_updated": "2026-03-24T09:05:00"
   },
   {
     "id": "WM013",
@@ -166,7 +166,7 @@
     "collection_efficiency": 87,
     "bin_fill_level_percent": 65,
     "status": "underutilized",
-    "last_updated": "2026-03-24T08:55:00Z"
+    "last_updated": "2026-03-24T08:55:00"
   },
   {
     "id": "WM014",
@@ -179,7 +179,7 @@
     "collection_efficiency": 90,
     "bin_fill_level_percent": 58,
     "status": "underutilized",
-    "last_updated": "2026-03-24T08:50:00Z"
+    "last_updated": "2026-03-24T08:50:00"
   },
   {
     "id": "WM015",
@@ -192,6 +192,6 @@
     "collection_efficiency": 88,
     "bin_fill_level_percent": 75,
     "status": "normal",
-    "last_updated": "2026-03-24T09:10:00Z"
+    "last_updated": "2026-03-24T09:10:00"
   }
 ]

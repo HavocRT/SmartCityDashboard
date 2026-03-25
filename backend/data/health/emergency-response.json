@@ -9,7 +9,7 @@
     "units_dispatched": 2,
     "priority": "high",
     "status": "resolved",
-    "last_updated": "2026-03-24T09:00:00Z"
+    "last_updated": "2026-03-24T09:00:00"
   },
   {
     "id": "ER002",
@@ -21,7 +21,7 @@
     "units_dispatched": 3,
     "priority": "high",
     "status": "resolved",
-    "last_updated": "2026-03-24T09:05:00Z"
+    "last_updated": "2026-03-24T09:05:00"
   },
   {
     "id": "ER003",
@@ -33,7 +33,7 @@
     "units_dispatched": 4,
     "priority": "high",
     "status": "active",
-    "last_updated": "2026-03-24T09:10:00Z"
+    "last_updated": "2026-03-24T09:10:00"
   },
   {
     "id": "ER004",
@@ -45,7 +45,7 @@
     "units_dispatched": 2,
     "priority": "medium",
     "status": "resolved",
-    "last_updated": "2026-03-24T08:55:00Z"
+    "last_updated": "2026-03-24T08:55:00"
   },
   {
     "id": "ER005",
@@ -57,7 +57,7 @@
     "units_dispatched": 3,
     "priority": "medium",
     "status": "active",
-    "last_updated": "2026-03-24T09:15:00Z"
+    "last_updated": "2026-03-24T09:15:00"
   },
   {
     "id": "ER006",
@@ -69,6 +69,6 @@
     "units_dispatched": 2,
     "priority": "low",
     "status": "resolved",
-    "last_updated": "2026-03-24T09:20:00Z"
+    "last_updated": "2026-03-24T09:20:00"
   }
 ]

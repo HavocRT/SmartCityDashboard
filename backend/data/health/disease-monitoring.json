@@ -8,7 +8,7 @@
     "reported_cases": 320,
     "severity": "moderate",
     "trend": "increasing",
-    "last_updated": "2026-03-24T09:00:00Z",
+    "last_updated": "2026-03-24T09:00:00",
     "status": "active"
   },
   {
@@ -20,7 +20,7 @@
     "reported_cases": 210,
     "severity": "moderate",
     "trend": "stable",
-    "last_updated": "2026-03-24T09:05:00Z",
+    "last_updated": "2026-03-24T09:05:00",
     "status": "active"
   },
   {
@@ -32,7 +32,7 @@
     "reported_cases": 95,
     "severity": "low",
     "trend": "decreasing",
-    "last_updated": "2026-03-24T08:55:00Z",
+    "last_updated": "2026-03-24T08:55:00",
     "status": "active"
   },
   {
@@ -44,7 +44,7 @@
     "reported_cases": 60,
     "severity": "low",
     "trend": "stable",
-    "last_updated": "2026-03-24T09:10:00Z",
+    "last_updated": "2026-03-24T09:10:00",
     "status": "active"
   },
   {
@@ -56,7 +56,7 @@
     "reported_cases": 45,
     "severity": "moderate",
     "trend": "decreasing",
-    "last_updated": "2026-03-24T09:15:00Z",
+    "last_updated": "2026-03-24T09:15:00",
     "status": "active"
   }
 ]

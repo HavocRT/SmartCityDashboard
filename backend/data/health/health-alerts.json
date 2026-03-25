@@ -6,7 +6,7 @@
     "affected_districts": ["Shinjuku", "Shibuya", "Ikebukuro"],
     "severity": "moderate",
     "issued_by": "Tokyo Health Department",
-    "date_issued": "2026-03-24T08:30:00Z",
+    "date_issued": "2026-03-24T08:30:00",
     "status": "active"
   },
   {
@@ -16,7 +16,7 @@
     "affected_districts": ["Asakusa", "Ueno", "Taito"],
     "severity": "low",
     "issued_by": "Tokyo Health Department",
-    "date_issued": "2026-03-24T09:00:00Z",
+    "date_issued": "2026-03-24T09:00:00",
     "status": "resolved"
   }
 ]
