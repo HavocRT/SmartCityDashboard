@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ER001",
+    "district": "Shinjuku",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "incident_type": "medical",
+    "response_time_minutes": 6,
+    "units_dispatched": 2,
+    "priority": "high",
+    "status": "resolved",
+    "last_updated": "2026-03-24T09:00:00Z"
+  },
+  {
+    "id": "ER002",
+    "district": "Shibuya",
+    "lat": 35.6580,
+    "lng": 139.7016,
+    "incident_type": "accident",
+    "response_time_minutes": 8,
+    "units_dispatched": 3,
+    "priority": "high",
+    "status": "resolved",
+    "last_updated": "2026-03-24T09:05:00Z"
+  },
+  {
+    "id": "ER003",
+    "district": "Ginza",
+    "lat": 35.6717,
+    "lng": 139.7650,
+    "incident_type": "fire",
+    "response_time_minutes": 7,
+    "units_dispatched": 4,
+    "priority": "high",
+    "status": "active",
+    "last_updated": "2026-03-24T09:10:00Z"
+  },
+  {
+    "id": "ER004",
+    "district": "Ikebukuro",
+    "lat": 35.7295,
+    "lng": 139.7109,
+    "incident_type": "medical",
+    "response_time_minutes": 5,
+    "units_dispatched": 2,
+    "priority": "medium",
+    "status": "resolved",
+    "last_updated": "2026-03-24T08:55:00Z"
+  },
+  {
+    "id": "ER005",
+    "district": "Shinagawa",
+    "lat": 35.6284,
+    "lng": 139.7387,
+    "incident_type": "rescue",
+    "response_time_minutes": 9,
+    "units_dispatched": 3,
+    "priority": "medium",
+    "status": "active",
+    "last_updated": "2026-03-24T09:15:00Z"
+  },
+  {
+    "id": "ER006",
+    "district": "Odaiba",
+    "lat": 35.6267,
+    "lng": 139.7750,
+    "incident_type": "accident",
+    "response_time_minutes": 10,
+    "units_dispatched": 2,
+    "priority": "low",
+    "status": "resolved",
+    "last_updated": "2026-03-24T09:20:00Z"
+  }
+]

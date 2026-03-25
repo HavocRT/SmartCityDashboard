@@ -1,0 +1,22 @@
+[
+  {
+    "id": "HA001",
+    "title": "Influenza Cases Rising",
+    "description": "Increase in flu cases reported across multiple districts. Citizens are advised to wear masks and maintain hygiene.",
+    "affected_districts": ["Shinjuku", "Shibuya", "Ikebukuro"],
+    "severity": "moderate",
+    "issued_by": "Tokyo Health Department",
+    "date_issued": "2026-03-24T08:30:00Z",
+    "status": "active"
+  },
+  {
+    "id": "HA002",
+    "title": "Heat Stroke Cases Subsiding",
+    "description": "Reported heat stroke cases are decreasing with improving weather conditions. Continue to stay hydrated.",
+    "affected_districts": ["Asakusa", "Ueno", "Taito"],
+    "severity": "low",
+    "issued_by": "Tokyo Health Department",
+    "date_issued": "2026-03-24T09:00:00Z",
+    "status": "resolved"
+  }
+]

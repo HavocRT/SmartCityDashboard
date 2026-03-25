@@ -1,0 +1,62 @@
+[
+  {
+    "id": "DM001",
+    "affected_districts": ["Shinjuku", "Shibuya", "Ikebukuro"],
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "disease": "influenza",
+    "reported_cases": 320,
+    "severity": "moderate",
+    "trend": "increasing",
+    "last_updated": "2026-03-24T09:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "DM002",
+    "affected_districts": ["Shinagawa", "Ota", "Minato"],
+    "lat": 35.6284,
+    "lng": 139.7387,
+    "disease": "common cold",
+    "reported_cases": 210,
+    "severity": "moderate",
+    "trend": "stable",
+    "last_updated": "2026-03-24T09:05:00Z",
+    "status": "active"
+  },
+  {
+    "id": "DM003",
+    "affected_districts": ["Asakusa", "Ueno", "Taito"],
+    "lat": 35.7115,
+    "lng": 139.7960,
+    "disease": "heat stroke",
+    "reported_cases": 95,
+    "severity": "low",
+    "trend": "decreasing",
+    "last_updated": "2026-03-24T08:55:00Z",
+    "status": "active"
+  },
+  {
+    "id": "DM004",
+    "affected_districts": ["Setagaya", "Suginami", "Nakameguro"],
+    "lat": 35.6467,
+    "lng": 139.6533,
+    "disease": "conjuctivitis",
+    "reported_cases": 60,
+    "severity": "low",
+    "trend": "stable",
+    "last_updated": "2026-03-24T09:10:00Z",
+    "status": "active"
+  },
+  {
+    "id": "DM005",
+    "affected_districts": ["Chiyoda", "Ginza", "Tokyo Station"],
+    "lat": 35.6938,
+    "lng": 139.7530,
+    "disease": "dengue",
+    "reported_cases": 45,
+    "severity": "moderate",
+    "trend": "decreasing",
+    "last_updated": "2026-03-24T09:15:00Z",
+    "status": "active"
+  }
+]
