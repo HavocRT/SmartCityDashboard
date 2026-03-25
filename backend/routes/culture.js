@@ -25,8 +25,8 @@ router.get("/tourism-analytics", (req, res) => {
   res.json(data);
 });
 
-router.get("/public-wifi-zones", (req, res) => {
-  const data = JSON.parse(fs.readFileSync(dataPath("public-wifi-zones.json"), "utf-8"));
+router.get("/wifi-zones", (req, res) => {
+  const data = JSON.parse(fs.readFileSync(dataPath("wifi-zones.json"), "utf-8"));
   res.json(data);
 });
 
