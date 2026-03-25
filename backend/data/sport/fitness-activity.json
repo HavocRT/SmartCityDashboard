@@ -1,0 +1,163 @@
+[
+  {
+    "id": "FT001",
+    "zone_name": "Shibuya",
+    "lat": 35.6595,
+    "lng": 139.7005,
+    "activity_type": "mixed",
+    "daily_active_users_avg": 9200,
+    "weekly_trend": [
+      { "day": "Mon", "activity_score": 7.5 },
+      { "day": "Tue", "activity_score": 7.8 },
+      { "day": "Wed", "activity_score": 8.0 },
+      { "day": "Thu", "activity_score": 7.9 },
+      { "day": "Fri", "activity_score": 8.6 },
+      { "day": "Sat", "activity_score": 9.3 },
+      { "day": "Sun", "activity_score": 8.9 }
+    ],
+    "peak_hours": {
+      "morning": { "start": "06:00", "end": "09:00" },
+      "evening": { "start": "18:00", "end": "21:00" }
+    },
+    "fitness_intensity_level": "very_high",
+    "trend": "increasing"
+  },
+  {
+    "id": "FT002",
+    "zone_name": "Shinjuku",
+    "lat": 35.6938,
+    "lng": 139.7034,
+    "activity_type": "gym",
+    "daily_active_users_avg": 8700,
+    "weekly_trend": [
+      { "day": "Mon", "activity_score": 7.2 },
+      { "day": "Tue", "activity_score": 7.6 },
+      { "day": "Wed", "activity_score": 7.9 },
+      { "day": "Thu", "activity_score": 7.8 },
+      { "day": "Fri", "activity_score": 8.4 },
+      { "day": "Sat", "activity_score": 8.8 },
+      { "day": "Sun", "activity_score": 8.3 }
+    ],
+    "peak_hours": {
+      "morning": { "start": "06:00", "end": "09:00" },
+      "evening": { "start": "18:00", "end": "21:00" }
+    },
+    "fitness_intensity_level": "high",
+    "trend": "increasing"
+  },
+  {
+    "id": "FT003",
+    "zone_name": "Ueno",
+    "lat": 35.7138,
+    "lng": 139.7731,
+    "activity_type": "outdoor_fitness",
+    "daily_active_users_avg": 5400,
+    "weekly_trend": [
+      { "day": "Mon", "activity_score": 6.5 },
+      { "day": "Tue", "activity_score": 6.8 },
+      { "day": "Wed", "activity_score": 7.0 },
+      { "day": "Thu", "activity_score": 6.9 },
+      { "day": "Fri", "activity_score": 7.3 },
+      { "day": "Sat", "activity_score": 8.0 },
+      { "day": "Sun", "activity_score": 7.8 }
+    ],
+    "peak_hours": {
+      "morning": { "start": "06:00", "end": "09:00" },
+      "evening": { "start": "17:00", "end": "20:00" }
+    },
+    "fitness_intensity_level": "medium",
+    "trend": "stable"
+  },
+  {
+    "id": "FT004",
+    "zone_name": "Ginza",
+    "lat": 35.6721,
+    "lng": 139.7655,
+    "activity_type": "gym",
+    "daily_active_users_avg": 4300,
+    "weekly_trend": [
+      { "day": "Mon", "activity_score": 6.8 },
+      { "day": "Tue", "activity_score": 7.0 },
+      { "day": "Wed", "activity_score": 7.2 },
+      { "day": "Thu", "activity_score": 7.1 },
+      { "day": "Fri", "activity_score": 7.5 },
+      { "day": "Sat", "activity_score": 7.9 },
+      { "day": "Sun", "activity_score": 7.6 }
+    ],
+    "peak_hours": {
+      "morning": { "start": "06:30", "end": "09:30" },
+      "evening": { "start": "18:30", "end": "21:30" }
+    },
+    "fitness_intensity_level": "medium",
+    "trend": "stable"
+  },
+  {
+    "id": "FT005",
+    "zone_name": "Odaiba",
+    "lat": 35.6272,
+    "lng": 139.7765,
+    "activity_type": "cycling",
+    "daily_active_users_avg": 6100,
+    "weekly_trend": [
+      { "day": "Mon", "activity_score": 6.9 },
+      { "day": "Tue", "activity_score": 7.1 },
+      { "day": "Wed", "activity_score": 7.3 },
+      { "day": "Thu", "activity_score": 7.2 },
+      { "day": "Fri", "activity_score": 7.6 },
+      { "day": "Sat", "activity_score": 8.5 },
+      { "day": "Sun", "activity_score": 8.2 }
+    ],
+    "peak_hours": {
+      "morning": { "start": "06:00", "end": "09:00" },
+      "evening": { "start": "17:00", "end": "20:00" }
+    },
+    "fitness_intensity_level": "high",
+    "trend": "increasing"
+  },
+  {
+    "id": "FT006",
+    "zone_name": "Setagaya",
+    "lat": 35.6465,
+    "lng": 139.6531,
+    "activity_type": "running",
+    "daily_active_users_avg": 3900,
+    "weekly_trend": [
+      { "day": "Mon", "activity_score": 6.2 },
+      { "day": "Tue", "activity_score": 6.5 },
+      { "day": "Wed", "activity_score": 6.7 },
+      { "day": "Thu", "activity_score": 6.6 },
+      { "day": "Fri", "activity_score": 7.0 },
+      { "day": "Sat", "activity_score": 7.8 },
+      { "day": "Sun", "activity_score": 7.5 }
+    ],
+    "peak_hours": {
+      "morning": { "start": "06:00", "end": "09:00" },
+      "evening": { "start": "17:00", "end": "20:00" }
+    },
+    "fitness_intensity_level": "medium",
+    "trend": "stable"
+  },
+  {
+    "id": "FT007",
+    "zone_name": "Akihabara",
+    "lat": 35.7023,
+    "lng": 139.7745,
+    "activity_type": "gym",
+    "daily_active_users_avg": 4800,
+    "weekly_trend": [
+      { "day": "Mon", "activity_score": 6.7 },
+      { "day": "Tue", "activity_score": 7.0 },
+      { "day": "Wed", "activity_score": 7.3 },
+      { "day": "Thu", "activity_score": 7.2 },
+      { "day": "Fri", "activity_score": 7.8 },
+      { "day": "Sat", "activity_score": 8.2 },
+      { "day": "Sun", "activity_score": 7.9 }
+    ],
+    "peak_hours": {
+      "morning": { "start": "06:30", "end": "09:30" },
+      "evening": { "start": "18:00", "end": "21:00" }
+    },
+    "fitness_intensity_level": "medium",
+    "trend": "increasing"
+  }
+]
