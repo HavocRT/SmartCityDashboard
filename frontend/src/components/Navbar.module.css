@@ -1,0 +1,126 @@
+.navbar {
+  width: 260px;
+  min-width: 260px;
+  height: 100%;
+  background-color: #b6b6b6;
+  border-right: 1px solid #2a4467;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  font-family: Ubuntu, Cantarell, 'DejaVu Sans', sans-serif;
+}
+
+.navbar::-webkit-scrollbar {
+  width: 4px;
+}
+.navbar::-webkit-scrollbar-track {
+  background: #b6b6b6;
+}
+.navbar::-webkit-scrollbar-thumb {
+  background: #b6b6b6;
+  border-radius: 2px;
+}
+
+.menuGroup {
+  border-bottom: 1px solid #454545;
+}
+
+.menuItem {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 20px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #0c2a4f;
+  font-family: Ubuntu, Cantarell, 'DejaVu Sans', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  text-align: left;
+  transition: background 0.2s, color 0.2s;
+}
+
+.menuItem:hover {
+  background-color: #41649c;
+  color: #c8dff0;
+}
+
+.menuItemActive {
+  background-color: #9f9ea8;
+  color: #1e6ccb;
+}
+
+.menuIcon {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+  opacity: 0.75;
+  flex-shrink: 0;
+}
+
+.menuItemActive .menuIcon,
+.menuItem:hover .menuIcon {
+  opacity: 1;
+}
+
+.menuLabel {
+  flex: 1;
+}
+
+.arrow {
+  font-size: 1rem;
+  color: #3a5068;
+  transform: rotate(-90deg);
+  display: inline-block;
+  transition: transform 0.25s ease, color 0.2s;
+  line-height: 1;
+}
+
+.arrowOpen {
+  transform: rotate(90deg);
+  color: #1e6ccb;
+}
+
+.subMenu {
+  display: flex;
+  flex-direction: column;
+  background-color: #c9c9cc;
+  border-top: 1px solid #454545;
+  animation: slideDown 0.2s ease;
+}
+
+@keyframes slideDown {
+  from { opacity: 0; transform: translateY(-6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.subItem {
+  width: 100%;
+  padding: 10px 20px 10px 52px;
+  background: none;
+  border: none;
+  border-left: 2px solid transparent;
+  cursor: pointer;
+  color: #0c2a4f;
+  font-family: Ubuntu, Cantarell, 'DejaVu Sans', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 400;
+  text-align: left;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.subItem:hover {
+  background-color: #4d76b8;
+  color: #c8dff0;
+  border-left-color: #1e4060;
+}
+
+.subItemActive {
+  color: #1e6ccb;
+  background-color: #b7b7c1;
+  border-left-color: #1e6ccb;
+}
