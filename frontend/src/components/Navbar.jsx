@@ -16,7 +16,7 @@ const menuItems = [
     icon: mobilityIcon,
     key: "mobility",
     subItems: [
-      { label: "Parking Lot",        key: "parking-lot" },
+      { label: "Parking Lot",        key: "parking-lots" },
       { label: "Parking Spaces",     key: "parking-spaces" },
       { label: "Charging Stations",  key: "charging-stations" },
       { label: "Traffic Flow",       key: "traffic-flow" },
@@ -31,8 +31,8 @@ const menuItems = [
     key: "energy",
     subItems: [
       { label: "Power Consumption",          key: "power-consumption" },
-      { label: "Renewable Energy Production",key: "renewable-energy-production" },
-      { label: "Street Lighting System",     key: "street-lighting-system" },
+      { label: "Renewable Energy Production",key: "renewable-energy" },
+      { label: "Street Lighting System",     key: "street-lighting" },
       { label: "Carbon Emissions",           key: "carbon-emissions" },
     ],
   },
@@ -41,9 +41,9 @@ const menuItems = [
     icon: environmentIcon,
     key: "environment",
     subItems: [
-      { label: "Air Quality Index",    key: "air-quality-index" },
-      { label: "Noise Pollution Data", key: "noise-pollution-data" },
-      { label: "Weather Station Data", key: "weather-station-data" },
+      { label: "Air Quality Index",    key: "air-quality" },
+      { label: "Noise Pollution Data", key: "noise-pollution" },
+      { label: "Weather Station Data", key: "weather-stations" },
       { label: "Water Quality",        key: "water-quality" },
       { label: "Waste Management",     key: "waste-management" },
     ],
@@ -69,7 +69,7 @@ const menuItems = [
       { label: "Museums",            key: "museums" },
       { label: "Public Libraries",   key: "public-libraries" },
       { label: "Tourism Analytics",  key: "tourism-analytics" },
-      { label: "Public Wi-Fi Zones", key: "public-wifi-zones" },
+      { label: "Public Wi-Fi Zones", key: "wifi-zones" },
     ],
   },
   {
@@ -99,14 +99,14 @@ const menuItems = [
     subItems: [
       { label: "Banks & ATMs",           key: "banks-atms" },
       { label: "Budget Allocation",      key: "budget-allocation" },
-      { label: "Tax Revenue Dashboard",  key: "tax-revenue-dashboard" },
+      { label: "Tax Revenue Dashboard",  key: "tax-revenue" },
       { label: "Smart Payment Systems",  key: "smart-payment-systems" },
       { label: "Property Market Trends", key: "property-market-trends" },
     ],
   },
 ];
 
-function Navbar() {
+function Navbar({ onEndpointChange }) {
   const [openMenu, setOpenMenu] = useState(null);
 
   const [activeItem, setActiveItem] = useState(null);
@@ -118,10 +118,7 @@ function Navbar() {
   const handleSubItemClick = (menuKey, subKey) => {
     const fullKey = `${menuKey}/${subKey}`;
     setActiveItem(fullKey);
-
-    // TODO: eventually this will:
-    // 1. Call the backend API: fetch(`http://localhost:5000/${menuKey}/${subKey}`)
-    // 2. Pass the returned data to the Map component to update markers
+    onEndpointChange(fullKey);
   };
 
   return (
