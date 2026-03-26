@@ -76,4 +76,41 @@ Most of the images for the icons have been taken from <a href="flaticon.com">Fla
 * <a href="https://www.flaticon.com/free-icons/sports" title="sports icons">Sports icons created by Icongeek26 - Flaticon</a>
 * <a href="https://www.flaticon.com/free-icons/book" title="book icons">Book icons created by Good Ware - Flaticon</a>
 * <a href="https://www.flaticon.com/free-icons/money" title="money icons">Money icons created by Freepik - Flaticon</a>
-*<a href="https://www.flaticon.com/free-icons/smart-city" title="smart city icons">Smart city icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/smart-city" title="smart city icons">Smart city icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/bicycle-parking" title="bicycle parking icons">Bicycle parking icons created by Roman Káčerek - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/parking-lot" title="parking lot icons">Parking lot icons created by cube29 - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/car" title="car icons">Car icons created by monkik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/traffic" title="traffic icons">Traffic icons created by Smashicons - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/crash" title="crash icons">Crash icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/transportation" title="transportation icons">Transportation icons created by meaicon - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/bike-parking" title="bike parking icons">Bike parking icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/consumption" title="Consumption icons">Consumption icons created by SANB - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/renewable-energy" title="renewable energy icons">Renewable energy icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/lighting" title="lighting icons">Lighting icons created by Eucalyp - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/co2-cloud" title="CO2 cloud icons">CO2 cloud icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/air" title="air icons">Air icons created by Phoenix Group - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/noisy" title="noisy icons">Noisy icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/climatology" title="climatology icons">Climatology icons created by Edi Prast - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/clean" title="clean icons">Clean icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/waste" title="waste icons">Waste icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/hospital" title="hospital icons">Hospital icons created by joalfa - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/drug" title="drug icons">Drug icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/disease" title="disease icons">Disease icons created by Tempo_doloe - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/ambulance" title="ambulance icons">Ambulance icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/health" title="health icons">Health icons created by juicy_fish - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/calendar" title="calendar icons">Calendar icons created by srip - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/museum" title="museum icons">Museum icons created by Good Ware - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/book" title="book icons">Book icons created by mavadee - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/tourism" title="tourism icons">Tourism icons created by GOWI - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/wifi" title="wifi icons">Wifi icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/facility" title="facility icons">Facility icons created by Iconjam - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/gym" title="gym icons">Gym icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/gym" title="gym icons">Gym icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/school" title="school icons">School icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/school-bus" title="school-bus icons">School-bus icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/literacy" title="literacy icons">Literacy icons created by berkahicon - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/bank" title="bank icons">Bank icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/budget" title="budget icons">Budget icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/tax" title="tax icons">Tax icons created by kornkun - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/transaction" title="transaction icons">Transaction icons created by Ilham Fitrotul Hayat - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/real-estate" title="real estate icons">Real estate icons created by Freepik - Flaticon</a>
