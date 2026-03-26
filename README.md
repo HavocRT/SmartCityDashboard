@@ -67,3 +67,13 @@ The primary inspiration for this project is taken from the EDAG group in Germany
 
 ### Image Sources
 Most of the images for the icons have been taken from <a href="flaticon.com">Flaticon.com</a>
+#### Icon attributions:
+* <a href="https://www.flaticon.com/free-icons/mobility" title="mobility icons">Mobility icons created by Iconjam - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/energy" title="energy icons">Energy icons created by Pixel perfect - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/eco-friendly" title="eco friendly icons">Eco friendly icons created by kmg design - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/healthcare" title="healthcare icons">Healthcare icons created by Kalashnyk - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/culture" title="culture icons">Culture icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/sports" title="sports icons">Sports icons created by Icongeek26 - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/book" title="book icons">Book icons created by Good Ware - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/money" title="money icons">Money icons created by Freepik - Flaticon</a>
+*<a href="https://www.flaticon.com/free-icons/smart-city" title="smart city icons">Smart city icons created by Freepik - Flaticon</a>
