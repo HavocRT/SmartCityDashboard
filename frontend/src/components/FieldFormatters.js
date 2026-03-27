@@ -86,10 +86,5 @@ export const FIELD_FORMATTERS = {
   top_nationalities: (v) =>
     v.map((n) => `${n.country} ${n.percentage}%`).join(", "),
 
-  seasonality_index: (v) =>
-    Object.entries(v)
-      .map(([season, val]) => `${season.charAt(0).toUpperCase() + season.slice(1)}: ${val}`)
-      .join(", "),
-
   network_speed_mbps: (v) => `Average: ${v.avg} Mbps | Peak: ${v.peak} Mbps`,
 };

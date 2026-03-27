@@ -9,7 +9,6 @@ The side panel contains the main content menu of the page with the following:
   - Parking Lot
   - Parking Spaces
   - Charging Stations
-  - Traffic Flow
   - Accidents
   - Bus Stations
   - Bike Stations
