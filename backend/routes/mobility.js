@@ -20,11 +20,6 @@ router.get("/charging-stations", (req, res) => {
   res.json(data);
 });
 
-router.get("/traffic-flow", (req, res) => {
-  const data = JSON.parse(fs.readFileSync(dataPath("traffic-flow.json"), "utf-8"));
-  res.json(data);
-});
-
 router.get("/accidents", (req, res) => {
   const data = JSON.parse(fs.readFileSync(dataPath("accidents.json"), "utf-8"));
   res.json(data);

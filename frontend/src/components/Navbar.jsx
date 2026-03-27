@@ -19,7 +19,6 @@ const menuItems = [
       { label: "Parking Lot",        key: "parking-lots" },
       { label: "Parking Spaces",     key: "parking-spaces" },
       { label: "Charging Stations",  key: "charging-stations" },
-      { label: "Traffic Flow",       key: "traffic-flow" },
       { label: "Accidents",          key: "accidents" },
       { label: "Bus Stations",       key: "bus-stations" },
       { label: "Bike Stations",      key: "bike-stations" },
@@ -126,7 +125,6 @@ function Navbar({ onEndpointChange }) {
       {menuItems.map((menu) => (
         <div key={menu.key} className={styles.menuGroup}>
 
-          {/* Top-level menu item */}
           <button
             className={`${styles.menuItem} ${openMenu === menu.key ? styles.menuItemActive : ""}`}
             onClick={() => handleMenuClick(menu.key)}
@@ -138,7 +136,6 @@ function Navbar({ onEndpointChange }) {
             </span>
           </button>
 
-          {/* Submenu */}
           {openMenu === menu.key && (
             <div className={styles.subMenu}>
               {menu.subItems.map((sub) => (
