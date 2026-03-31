@@ -278,10 +278,7 @@ function Map({ activeEndpoint }) {
     (item) => typeof item.lat === "number" && typeof item.lng === "number"
   );
 
-  const icon = useMemo(() => {
-    if (!activeEndpoint) return null;
-    return makeIcon(ICON_MAP[activeEndpoint]);
-  }, [activeEndpoint]);
+  const icon = activeEndpoint ? makeIcon(ICON_MAP[activeEndpoint]) : null;
 
   return (
     <div className={styles.mapWrapper}>
