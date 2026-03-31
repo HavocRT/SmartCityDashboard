@@ -209,3 +209,8 @@ Most of the images for the icons have been taken from <a href="flaticon.com">Fla
 * <a href="https://www.flaticon.com/free-icons/tax" title="tax icons">Tax icons created by kornkun - Flaticon</a>
 * <a href="https://www.flaticon.com/free-icons/transaction" title="transaction icons">Transaction icons created by Ilham Fitrotul Hayat - Flaticon</a>
 * <a href="https://www.flaticon.com/free-icons/real-estate" title="real estate icons">Real estate icons created by Freepik - Flaticon</a>
+
+### Map Source:
+
+Map tile layer has been taken from Carto DB.
+<br><a href="https://carto.com/">Carto DB</a>
