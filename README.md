@@ -57,6 +57,102 @@ The side panel contains the main content menu of the page with the following:
   - Smart Payment Systems
   - Property Market Trends
 
+## API Reference
+
+All endpoints are `GET` requests served from `http://localhost:5000`.
+
+---
+
+### 🚗 Mobility
+
+| Endpoint | Description | Returns |
+|---|---|---|
+| `GET /mobility/parking-lots` | All parking lot locations across Tokyo | Lot name, capacity, availability, coordinates |
+| `GET /mobility/parking-spaces` | Individual parking space status | Space ID, status, zone, coordinates |
+| `GET /mobility/charging-stations` | EV charging station locations | Connector types, availability, fee per kWh |
+| `GET /mobility/accidents` | Reported road accidents | Location, severity, reported time, status |
+| `GET /mobility/bus-stations` | Bus stop locations and routes | Station name, routes served, coordinates |
+| `GET /mobility/bike-stations` | Bike sharing station locations | Station name, available bikes, capacity |
+
+---
+
+### ⚡ Energy
+
+| Endpoint | Description | Returns |
+|---|---|---|
+| `GET /energy/power-consumption` | Power usage by district | District, consumption (kWh), peak hour range |
+| `GET /energy/renewable-energy` | Renewable energy production sites | Source type, output (kWh), location |
+| `GET /energy/street-lighting` | Street lighting system status | Zone, light count, status, last updated |
+| `GET /energy/carbon-emissions` | Carbon emission levels by zone | Zone, emission level, major sources |
+
+---
+
+### 🌿 Environment
+
+| Endpoint | Description | Returns |
+|---|---|---|
+| `GET /environment/air-quality` | Air quality index readings | AQI value, PM10, PM2.5, station location |
+| `GET /environment/noise-pollution` | Noise pollution sensor data | Decibel level, peak time, district |
+| `GET /environment/weather-stations` | Weather station readings | Temperature, humidity, wind speed, location |
+| `GET /environment/water-quality` | Water quality monitoring data | Quality index, contaminant levels, location |
+| `GET /environment/waste-management` | Waste collection site data | Site name, fill level, last collected, location |
+
+---
+
+### 🏥 Health
+
+| Endpoint | Description | Returns |
+|---|---|---|
+| `GET /health/hospitals` | Hospital locations and details | Name, specialties, capacity, emergency status |
+| `GET /health/pharmacies` | Pharmacy locations | Name, opening hours, services, coordinates |
+| `GET /health/disease-monitoring` | Disease outbreak monitoring data | Disease type, affected districts, case count |
+| `GET /health/emergency-response` | Emergency response unit locations | Unit type, status, response time, coordinates |
+| `GET /health/health-alerts` | Active public health alerts | Title, severity, description, affected districts |
+
+---
+
+### 🎭 Culture
+
+| Endpoint | Description | Returns |
+|---|---|---|
+| `GET /culture/upcoming-events` | Upcoming city events | Event name, venue, dates, ticket price, category |
+| `GET /culture/museums` | Museum locations and details | Name, opening hours, entry fee, nearby landmarks |
+| `GET /culture/public-libraries` | Public library locations | Name, opening hours, services, coordinates |
+| `GET /culture/tourism-analytics` | Tourism data by zone | Visitor count, top nationalities, seasonality index |
+| `GET /culture/wifi-zones` | Public Wi-Fi hotspot locations | Zone name, network speed, coverage area |
+
+---
+
+### 🏅 Sport
+
+| Endpoint | Description | Returns |
+|---|---|---|
+| `GET /sport/facility-locations` | Sports facility locations | Facility name, sports supported, coordinates |
+| `GET /sport/gymnasiums` | Gymnasium details across Tokyo | Name, gym type, entry fee, opening hours, crowd level |
+| `GET /sport/fitness-activity-trends` | Fitness activity data by zone | Zone, activity type, weekly trend scores, intensity level |
+
+---
+
+### 🎓 Education
+
+| Endpoint | Description | Returns |
+|---|---|---|
+| `GET /education/educational-institutions` | Schools and universities | Name, type, courses offered, coordinates |
+| `GET /education/school-transports` | School transport routes | Route ID, schools served, schedule |
+| `GET /education/literacy-statistics` | Literacy rate data by district | District, literacy rate, trend |
+
+---
+
+### 💰 Finance
+
+| Endpoint | Description | Returns |
+|---|---|---|
+| `GET /finance/banks-atms` | Bank and ATM locations | Name, type, services, opening hours |
+| `GET /finance/budget-allocation` | City budget allocation data | Department, allocated amount, spent amount |
+| `GET /finance/tax-revenue` | Tax revenue by district | District, revenue amount, collection period |
+| `GET /finance/smart-payment-systems` | Smart payment terminal locations | Terminal ID, supported methods, location |
+| `GET /finance/property-market-trends` | Property market data by zone | Zone, avg price per sqm, trend, property type |
+
 ## Sources
 The primary inspiration for this project is taken from the EDAG group in Germany that provides a smart city dashboard reference of what to expect and how a dashboard for a smart city is supposed to look like.
 

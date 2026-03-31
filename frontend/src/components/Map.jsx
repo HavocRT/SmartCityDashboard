@@ -250,21 +250,26 @@ function Map({ activeEndpoint }) {
       setData([]);
       return;
     }
-    const fetchData = async () => {
+    const fetchData = () => {
       setLoading(true);
       setError(null);
-      try {
-        const res = await fetch(`http://localhost:5000/${activeEndpoint}`);
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const json = await res.json();
-        setData(json);
-      } catch (err) {
-        console.error("Map fetch error:", err);
-        setError("Failed to load data.");
-        setData([]);
-      } finally {
-        setLoading(false);
-      }
+
+      fetch(`http://localhost:5000/${activeEndpoint}`)
+        .then((res) => {
+          if (!res.ok) throw new Error(`HTTP ${res.status}`);
+          return res.json();
+        })
+        .then((json) => {
+          setData(json);
+        })
+        .catch((err) => {
+          console.error("Map fetch error:", err);
+          setError("Failed to load data.");
+          setData([]);
+        })
+        .finally(() => {
+          setLoading(false);
+        });
     };
     fetchData();
   }, [activeEndpoint]);
